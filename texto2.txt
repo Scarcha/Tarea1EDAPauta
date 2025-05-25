@@ -1,0 +1,2000 @@
+202223254 "Fernanda Castillo Torres" 66 60 80 65 49 46 70 69 60
+202262496 "Isabel Hernandez Lopez" 72 60 70 59 55
+202224144 "Diego Castillo Castillo" 71 73 70 73 71
+202202687 "Alejandro Ramirez Torres" 47 45 45 65 47 40 64 72 58
+202246490 "Diego Castillo Hernandez" 83 52 78 68 60 82 48 57 85 47
+202271431 "Raul Martinez Gonzalez" 79 77 65 65 71 68
+202256477 "Sofia Ramirez Martinez" 40 61 51 69 61 43 85
+202262025 "Gabriel Romero Hernandez" 46 59 71 62 49 47
+202227194 "Gabriel Mendoza Hernandez" 50 91 61 82 92 88 74 52
+202288153 "Sofia Torres Garcia" 65 43 39 73 78 46 54
+202261267 "Nicolas Torres Garcia" 76 88 90 77 88 80 78 87 90 80
+202283778 "Alejandro Alvarez Mendoza" 66 96 63 76 84 67 95
+202294564 "Isabel Flores Garcia" 87 79 87 84 71 94 61 91 93 65
+202217609 "Nicolas Lopez Perez" 70 57 63 53 68 59 59 66 56 69
+202275894 "Valentina Ramirez Mendoza" 79 85 77 91 73 84 77
+202262654 "Nicolas Martinez Castillo" 70 53 61 58 57 65 73 66 69 72
+202210245 "Diego Flores Hernandez" 64 72 86 66 61 67 86 71
+202217017 "Raul Sanchez Alvarez" 44 49 54 68 75 62
+202228542 "Isabel Gonzalez Flores" 70 68 49 67 46
+202213487 "Elena Alvarez Ramirez" 73 53 68 62 72 64 59
+202209945 "Javier Hernandez Mendoza" 70 69 69 68 67
+202205414 "Nicolas Martinez Alvarez" 78 37 35 64 31 39 82 65 63 71
+202291613 "Maria Romero Sanchez" 64 68 56 71 82
+202274733 "Carlos Sanchez Mendoza" 51 62 54 37 74 64 71
+202294746 "Diego Alvarez Rivera" 60 74 52 52 67 59
+202277371 "Maria Romero Castillo" 70 58 65 68 65 71
+202251590 "Nicolas Castillo Sanchez" 67 61 70 56 70 59 67
+202241292 "Sofia Lopez Rivera" 42 78 61 38 50 67 40 39 72 51
+202218821 "Fernanda Hernandez Romero" 85 93 57 51 53 87 66 91
+202219998 "Valentina Garcia Perez" 70 69 68 69 69
+202253470 "Fernanda Rivera Castillo" 67 53 40 55 67 40 79
+202299599 "Gabriel Mendoza Romero" 66 66 73 73 68 61 75
+202220693 "Raul Perez Sanchez" 53 49 88 92 65
+202289337 "Alejandro Ramirez Garcia" 82 84 87 77 82 73 72 73 68 85
+202232648 "Pablo Garcia Garcia" 66 61 55 84 64 62
+202279952 "Maria Mendoza Torres" 57 68 84 64 62 85 77
+202249993 "Gabriel Torres Romero" 71 71 50 43 55 51 69 76 57
+202279898 "Fernanda Hernandez Castillo" 70 70 70 70 70 70 70 70 70
+202249440 "Pablo Martinez Romero" 56 37 70 67 66 65
+202226873 "Sofia Alvarez Lopez" 78 82 87 81 67 94
+202294223 "Diego Castillo Romero" 74 60 51 45 68 51
+202298776 "Carlos Hernandez Gonzalez" 72 56 49 59 49 62 65 48 61 70
+202289061 "Isabel Alvarez Torres" 85 83 58 77 58 70 87
+202274372 "Maria Martinez Rivera" 70 92 90 71 39
+202289247 "Javier Perez Sanchez" 89 93 86 77 96 85
+202237235 "Javier Romero Gonzalez" 81 76 70 51 53 59
+202295395 "Sofia Sanchez Gonzalez" 41 82 55 60 59
+202201116 "Raul Alvarez Lopez" 47 61 51 39 59
+202252284 "Fernanda Castillo Mendoza" 88 80 74 67 83 68 91 83
+202241430 "Nicolas Gonzalez Rivera" 72 76 82 69 76 66 78 68 66 70
+202244717 "Elena Sanchez Flores" 63 86 66 71 62 59 67 59
+202201312 "Gabriel Rivera Rivera" 31 84 58 75 55 49 67 47 55 59
+202291933 "Lucia Rivera Martinez" 42 50 46 56 46
+202237933 "Sofia Hernandez Gonzalez" 68 71 84 61 55
+202261096 "Sofia Castillo Castillo" 91 81 86 87 74
+202233885 "Carlos Castillo Sanchez" 68 63 64 69 63 68 67 68 63 69
+202201956 "Raul Castillo Garcia" 67 66 70 59 61
+202289906 "Elena Mendoza Martinez" 76 70 74 72 74 70 72 74
+202297941 "Gabriel Garcia Mendoza" 66 68 66 66 72 74 76 68
+202298864 "Javier Flores Castillo" 62 77 47 89 51 86 54
+202243430 "Diego Ramirez Castillo" 80 49 62 70 52 67 48 62
+202282601 "Pablo Ramirez Sanchez" 80 74 73 79 72
+202240210 "Raul Castillo Rivera" 65 42 66 59 40 53 76 75 62 71
+202213315 "Lucia Romero Torres" 87 66 71 77 76 76 70 75
+202275383 "Sofia Lopez Hernandez" 68 68 68 55 89
+202296669 "Fernanda Martinez Flores" 67 70 51 57 74 81
+202210849 "Fernanda Lopez Castillo" 78 55 41 61 57 93 75 65 43
+202269646 "Lucia Castillo Garcia" 72 71 71 70 73 80 73 81 80
+202223675 "Alejandro Sanchez Romero" 92 89 65 83 82 86 83
+202274233 "Nicolas Castillo Flores" 60 64 78 80 62 59 53 57 58 54
+202208229 "Raul Ramirez Garcia" 85 71 70 78 89 86 74 90
+202226394 "Maria Romero Hernandez" 67 72 74 68 74 78 84 79
+202220274 "Pablo Castillo Mendoza" 70 57 82 80 77 74 78 67 69 58
+202250744 "Alejandro Mendoza Martinez" 61 57 61 56 65
+202278310 "Nicolas Ramirez Castillo" 67 43 61 49 69 33 43 43
+202260127 "Carlos Perez Gonzalez" 91 79 68 84 90 93
+202222809 "Elena Mendoza Castillo" 58 45 45 56 48 53
+202296247 "Nicolas Flores Sanchez" 61 45 59 54 39 73 62 43 75 66
+202248926 "Sofia Gonzalez Gonzalez" 69 39 47 47 38 47 76 74 59 69
+202254224 "Raul Ramirez Hernandez" 69 71 71 72 71 70 72 70 69 74
+202251255 "Pablo Ramirez Garcia" 71 58 74 71 63 56 52 63 60 62
+202231694 "Pablo Mendoza Hernandez" 64 52 48 52 82 74 75
+202266028 "Isabel Alvarez Hernandez" 55 43 59 49 65 39 68 52 43
+202249231 "Nicolas Gonzalez Lopez" 54 51 59 52 66 50 63 68 74 55
+202264891 "Pablo Ramirez Romero" 70 67 50 59 48 69 55
+202285066 "Pablo Garcia Lopez" 70 71 74 75 75 77 74 78 72 83
+202211584 "Pablo Castillo Garcia" 65 80 74 54 78 69 64 45 53 77
+202269994 "Pablo Ramirez Rivera" 48 90 71 68 79
+202228528 "Carlos Hernandez Ramirez" 87 74 90 80 80 76 71
+202299741 "Maria Castillo Ramirez" 65 55 58 70 59 64
+202202877 "Alejandro Mendoza Perez" 62 95 75 79 82 52 69 96
+202259272 "Lucia Castillo Rivera" 73 68 62 57 65 66 60 69 67 69
+202232504 "Elena Perez Lopez" 81 53 79 82 44
+202210657 "Isabel Mendoza Perez" 64 68 54 50 79 55 70
+202290742 "Raul Alvarez Sanchez" 76 87 60 77 71 47
+202218790 "Pablo Hernandez Ramirez" 70 71 44 41 64
+202270755 "Gabriel Lopez Rivera" 50 58 49 60 64
+202205614 "Elena Castillo Castillo" 65 71 81 83 76
+202242922 "Lucia Martinez Gonzalez" 86 88 72 88 71
+202204222 "Elena Perez Sanchez" 41 52 69 67 72 46 88 93 31
+202279413 "Raul Mendoza Mendoza" 75 68 86 77 71
+202254422 "Alejandro Sanchez Castillo" 72 80 56 78 82 69 84 51
+202287180 "Alejandro Rivera Torres" 66 66 67 69 67 70 70 66 67
+202265685 "Carlos Ramirez Mendoza" 45 53 64 30 32 41 52 56 53 41
+202222180 "Alejandro Torres Romero" 53 73 48 72 79 61 52
+202247617 "Isabel Garcia Castillo" 88 96 44 47 99
+202295868 "Diego Ramirez Hernandez" 73 41 86 58 47 37 79 83 53 87
+202222719 "Lucia Romero Perez" 58 62 69 47 54 62
+202261119 "Diego Garcia Lopez" 90 52 88 66 56 52 81 83 73
+202206581 "Pablo Ramirez Ramirez" 96 74 94 74 81 73 86 89 70 71
+202220937 "Alejandro Castillo Garcia" 98 95 52 97 94 40
+202227984 "Carlos Romero Hernandez" 67 90 74 63 66 83 71 71
+202238757 "Nicolas Lopez Mendoza" 59 81 74 86 67 83 63 66 62 61
+202243320 "Maria Hernandez Gonzalez" 35 61 60 57 46 42 81 77
+202237724 "Valentina Garcia Mendoza" 57 49 79 36 45 78 59 57 38
+202219877 "Fernanda Lopez Lopez" 69 51 74 85 45 45 63 50
+202280467 "Nicolas Gonzalez Ramirez" 63 75 85 72 78 79 69 77 53
+202229696 "Nicolas Ramirez Perez" 39 60 71 39 34 38 67 68 55
+202239161 "Isabel Rivera Mendoza" 55 68 70 63 55 77 70
+202271355 "Javier Flores Sanchez" 73 53 72 55 65 55 72 59 56 69
+202201824 "Javier Romero Castillo" 56 69 54 56 80 71 59 63 63
+202238276 "Nicolas Sanchez Sanchez" 69 65 63 71 67 63 67 66
+202240842 "Raul Garcia Castillo" 67 60 82 79 82
+202284541 "Isabel Ramirez Hernandez" 58 71 58 68 59 50 62 72
+202244374 "Isabel Lopez Gonzalez" 50 64 51 62 66 67 60 61 86
+202264901 "Javier Torres Lopez" 80 79 75 56 83
+202292287 "Sofia Martinez Mendoza" 63 68 70 69 62
+202204925 "Valentina Castillo Lopez" 73 73 64 68 63 81
+202237140 "Diego Lopez Perez" 73 57 60 81 66 63 55 77 60
+202298735 "Javier Castillo Romero" 75 81 83 78 82 77 72 84 77
+202275012 "Alejandro Castillo Alvarez" 89 63 75 70 81 85
+202232023 "Gabriel Gonzalez Rivera" 40 78 57 47 63 42 44 53
+202281878 "Isabel Mendoza Ramirez" 68 68 70 66 65 69 73 72 73 73
+202235997 "Gabriel Lopez Sanchez" 64 88 88 69 81 58 71
+202228597 "Fernanda Hernandez Garcia" 40 68 53 42 71 53 61 40
+202221103 "Isabel Ramirez Romero" 66 57 65 69 45 73 41 61 77
+202256606 "Nicolas Garcia Rivera" 65 57 62 73 53 71 82 51
+202261611 "Gabriel Flores Mendoza" 92 44 33 64 72 61 49 63
+202278124 "Lucia Garcia Martinez" 83 90 65 62 59 80 63 64 78
+202263114 "Raul Alvarez Alvarez" 94 97 71 95 75
+202215821 "Nicolas Garcia Ramirez" 73 70 76 71 76 68 74
+202224713 "Maria Torres Lopez" 81 75 78 63 77 63 83 66 69
+202289619 "Raul Gonzalez Mendoza" 81 77 79 81 75 90
+202238786 "Isabel Perez Hernandez" 78 78 93 59 98 77 92 57
+202274565 "Fernanda Alvarez Martinez" 76 78 49 60 42 36
+202241592 "Lucia Torres Alvarez" 75 72 73 71 73 69 76 78
+202210430 "Diego Gonzalez Castillo" 75 82 71 98 76 87 95 97 64
+202274119 "Nicolas Garcia Hernandez" 83 37 88 85 63 82 31 33 80 85
+202218749 "Carlos Alvarez Romero" 76 71 69 76 70 76
+202263208 "Nicolas Rivera Perez" 67 81 79 60 79 83
+202214053 "Raul Hernandez Ramirez" 65 56 62 54 45 51 50
+202215754 "Alejandro Martinez Flores" 93 82 88 72 93 91 92
+202264376 "Nicolas Martinez Ramirez" 62 45 51 72 57
+202281639 "Fernanda Alvarez Alvarez" 80 39 77 72 70 55 51 76 61 81
+202209143 "Gabriel Alvarez Flores" 65 60 51 79 85
+202212908 "Javier Garcia Alvarez" 70 67 47 42 66 43 56 70 42 45
+202213088 "Gabriel Mendoza Perez" 69 55 68 73 77
+202254166 "Alejandro Rivera Romero" 82 74 83 68 63 69 76 72
+202237828 "Elena Flores Alvarez" 57 79 68 59 53 72 69 68 59 73
+202204977 "Elena Hernandez Garcia" 52 35 58 65 81 47
+202260850 "Nicolas Castillo Romero" 45 72 53 33 41 57
+202224550 "Sofia Castillo Perez" 50 57 57 56 62 69
+202258390 "Nicolas Martinez Mendoza" 88 61 82 46 69 89 90 64 81
+202219254 "Nicolas Hernandez Mendoza" 54 65 56 70 62 67 64 56 92 60
+202256088 "Diego Martinez Flores" 75 72 75 67 65 67
+202214936 "Pablo Perez Rivera" 64 53 90 73 74 83 80
+202292173 "Valentina Flores Rivera" 59 65 76 88 77 90 81 89 70 88
+202243334 "Javier Sanchez Garcia" 77 73 65 75 76 79
+202264089 "Fernanda Flores Rivera" 83 70 82 75 71 71 88 70
+202259837 "Diego Rivera Hernandez" 37 64 73 90 58 79
+202276875 "Alejandro Garcia Hernandez" 76 83 68 62 81 60
+202212137 "Isabel Hernandez Torres" 82 67 85 63 72 74 76
+202217064 "Sofia Alvarez Rivera" 59 70 70 67 59 63 63 67 71
+202268372 "Carlos Mendoza Gonzalez" 65 74 65 75 74 69 71 65 75 73
+202267402 "Fernanda Martinez Torres" 59 68 74 79 89 83 58 85 57 77
+202208813 "Valentina Romero Alvarez" 80 58 81 78 83
+202291534 "Pablo Torres Castillo" 62 60 57 58 74
+202247766 "Lucia Flores Rivera" 72 70 42 65 41 50 43 44
+202231011 "Lucia Hernandez Mendoza" 78 70 88 97 96 88
+202297431 "Carlos Sanchez Alvarez" 50 80 78 81 77 47
+202269505 "Alejandro Torres Martinez" 95 83 93 83 83 86 86 77 94 76
+202243983 "Raul Romero Perez" 51 64 80 59 69 69 54 47 45 82
+202258891 "Alejandro Perez Alvarez" 68 73 74 79 70 81 67 86 87
+202200135 "Maria Gonzalez Hernandez" 74 84 74 86 78 75 78 83 77
+202266005 "Gabriel Martinez Castillo" 63 69 68 59 66
+202280737 "Lucia Hernandez Castillo" 58 82 71 82 75 87 74 76 61
+202215996 "Pablo Perez Lopez" 67 69 77 77 89 72 82 71
+202243127 "Javier Perez Mendoza" 66 73 70 69 71 73 73
+202254496 "Maria Torres Hernandez" 73 91 89 68 90 92 86 88 97
+202227576 "Nicolas Torres Rivera" 71 76 74 66 73 85 67 55 63
+202241204 "Lucia Torres Torres" 84 72 67 69 74 69 63 73
+202249931 "Javier Ramirez Perez" 48 55 66 70 45 48 58 58 74 59
+202236297 "Alejandro Garcia Alvarez" 85 68 95 58 81 92 63 89
+202235477 "Isabel Romero Perez" 77 67 72 61 75 69
+202271076 "Maria Torres Mendoza" 78 78 72 61 62 55 69 75 55
+202215780 "Maria Castillo Castillo" 61 73 67 69 64 61 62
+202276543 "Javier Flores Romero" 78 78 76 67 82
+202216483 "Raul Ramirez Rivera" 63 77 74 56 62
+202248957 "Gabriel Romero Lopez" 76 81 81 56 52 75 57 81 90
+202256478 "Isabel Ramirez Ramirez" 85 84 77 79 46 48 78 71 67
+202273325 "Raul Martinez Castillo" 60 67 78 91 67 80 84 82 63
+202262705 "Nicolas Hernandez Romero" 83 74 78 79 78 83 79 81
+202220264 "Valentina Ramirez Flores" 84 61 59 74 95 96 94 73
+202253656 "Alejandro Lopez Rivera" 64 55 55 63 66 70 63 63 63
+202235512 "Carlos Rivera Flores" 50 53 45 49 71
+202212888 "Isabel Sanchez Torres" 63 43 43 65 80 69 46
+202285027 "Sofia Flores Castillo" 86 72 91 88 87
+202262311 "Raul Mendoza Alvarez" 54 38 53 53 40 61 58 56 51
+202245419 "Pablo Gonzalez Castillo" 68 52 45 68 71 55 76 40 54 42
+202228987 "Maria Sanchez Lopez" 48 59 69 35 63 46 72 43 37 67
+202286388 "Javier Gonzalez Flores" 63 65 66 61 61 72 66
+202222387 "Javier Martinez Martinez" 83 79 76 70 77
+202292322 "Diego Castillo Perez" 80 71 65 49 66 71 63 59
+202240476 "Pablo Mendoza Castillo" 70 83 82 78 69 65 69 84
+202231373 "Isabel Gonzalez Ramirez" 70 64 72 68 66 73
+202296017 "Javier Mendoza Lopez" 52 66 52 71 50
+202266412 "Carlos Garcia Castillo" 70 84 93 55 91 85
+202228238 "Raul Torres Perez" 64 58 55 83 71 69 67
+202250399 "Isabel Castillo Alvarez" 42 69 52 86 58
+202274105 "Carlos Flores Ramirez" 48 56 87 64 63 57 91
+202259414 "Lucia Perez Lopez" 64 56 56 57 45
+202211658 "Gabriel Ramirez Gonzalez" 54 95 70 58 91 61 63 77
+202271665 "Javier Lopez Flores" 72 54 39 46 77 43 65
+202240521 "Pablo Flores Lopez" 73 81 64 65 74 87 81 87
+202239867 "Javier Sanchez Flores" 65 55 64 68 80 79 81
+202288972 "Javier Hernandez Martinez" 71 45 68 35 47 63 57 73 82 76
+202283570 "Alejandro Martinez Torres" 79 83 78 74 62 61
+202252800 "Elena Romero Martinez" 63 48 47 52 63 36 63
+202223283 "Raul Romero Alvarez" 72 70 72 65 72 72
+202284354 "Isabel Flores Gonzalez" 73 81 75 69 80 72 77 74 76
+202248541 "Fernanda Romero Romero" 75 76 68 64 66 76 76 73 73
+202252323 "Diego Garcia Alvarez" 76 71 38 45 74 73 68 35
+202211527 "Elena Flores Torres" 61 72 70 68 65 67 62 70 76 73
+202210122 "Diego Perez Ramirez" 63 49 82 75 43 82 91
+202297075 "Isabel Mendoza Gonzalez" 51 60 71 61 50
+202224752 "Raul Hernandez Hernandez" 79 57 70 57 61
+202227467 "Lucia Hernandez Flores" 94 69 36 45 66 90 86 31 87
+202291650 "Lucia Flores Garcia" 69 63 58 56 71
+202274432 "Valentina Torres Rivera" 50 52 64 44 47
+202214688 "Pablo Martinez Alvarez" 41 66 66 59 67 63 42 62 47 51
+202252522 "Isabel Perez Perez" 71 61 84 84 81
+202273929 "Alejandro Sanchez Perez" 71 56 72 40 44 70 76 41 51 52
+202215643 "Maria Rivera Romero" 73 54 75 73 43 72 68
+202278975 "Javier Lopez Alvarez" 58 61 63 74 74 50 42 53 76
+202284665 "Elena Mendoza Alvarez" 73 75 44 68 77 78 49 90
+202222252 "Raul Rivera Alvarez" 71 75 85 94 82
+202215184 "Alejandro Romero Romero" 86 93 63 62 79 55 55 68 32 92
+202289833 "Valentina Lopez Mendoza" 67 66 68 69 65 69 68 63
+202267542 "Diego Torres Mendoza" 61 69 65 83 70
+202236158 "Sofia Ramirez Mendoza" 95 94 91 79 79 69 83 77 70
+202205456 "Diego Rivera Torres" 86 75 52 73 46 62 53
+202276547 "Maria Mendoza Mendoza" 53 52 79 50 77 74
+202215176 "Raul Perez Mendoza" 60 72 59 61 90 73 58 54 74 77
+202217886 "Isabel Flores Hernandez" 40 42 44 81 91 81 65 66
+202205757 "Pablo Garcia Torres" 74 72 72 75 84 85
+202284801 "Lucia Martinez Rivera" 89 77 82 93 92 63 66 81 62 90
+202201859 "Maria Ramirez Flores" 66 52 53 67 65
+202208915 "Gabriel Torres Sanchez" 65 65 54 56 65 53
+202299346 "Lucia Flores Lopez" 75 72 76 73 71 69 68 68 68 76
+202237131 "Lucia Martinez Romero" 72 72 38 44 81 65
+202212332 "Elena Romero Garcia" 82 60 40 56 83 80 39 40 68 53
+202263458 "Raul Flores Sanchez" 68 84 67 72 79 88 88 77 82 81
+202226019 "Sofia Garcia Flores" 61 74 77 82 81 54
+202276527 "Diego Perez Castillo" 72 59 49 46 60 61
+202276113 "Valentina Perez Hernandez" 72 75 64 85 76 84 59 73 66 52
+202256948 "Diego Alvarez Castillo" 45 56 36 34 41 64 66
+202275194 "Alejandro Garcia Lopez" 67 67 73 69 72 73
+202223017 "Valentina Torres Castillo" 57 62 38 35 69 47 56 41
+202203909 "Isabel Lopez Martinez" 77 77 80 73 74 78 86
+202228111 "Sofia Flores Mendoza" 44 61 63 77 60 40 49
+202253592 "Diego Perez Hernandez" 49 84 48 76 84
+202252687 "Isabel Perez Romero" 62 64 61 72 70
+202230980 "Gabriel Sanchez Rivera" 81 70 88 77 67 76 67 82
+202279031 "Pablo Castillo Gonzalez" 85 96 90 81 96 81 74
+202228034 "Elena Gonzalez Alvarez" 68 66 70 68 71
+202253603 "Isabel Hernandez Perez" 89 76 79 82 77 88 76 79 87 89
+202200407 "Maria Mendoza Martinez" 61 71 79 81 71
+202220887 "Valentina Castillo Gonzalez" 99 56 42 88 88 99 61 46
+202209399 "Elena Gonzalez Romero" 49 79 71 83 69 44 73 76
+202235114 "Valentina Perez Mendoza" 76 89 89 85 89 69 79 78 80
+202217145 "Maria Rivera Hernandez" 78 50 35 35 67
+202232394 "Sofia Hernandez Rivera" 60 61 65 73 54 68
+202201630 "Javier Torres Romero" 62 57 75 82 56 89 57 51 84 63
+202202174 "Fernanda Martinez Ramirez" 78 65 74 63 61 68 61 71
+202284659 "Pablo Rivera Gonzalez" 79 59 67 75 52 51
+202248751 "Gabriel Hernandez Alvarez" 78 52 61 46 81 78
+202262887 "Alejandro Flores Alvarez" 73 70 68 73 95
+202270208 "Sofia Lopez Gonzalez" 55 80 61 53 77 58 68 57 67
+202211766 "Alejandro Perez Mendoza" 49 51 65 71 67 72
+202263135 "Sofia Hernandez Flores" 69 69 69 70 72 70 68 73
+202289351 "Nicolas Flores Romero" 86 59 51 43 47 72 79 79 94
+202287204 "Maria Sanchez Romero" 81 74 72 67 81 70 78 82
+202227231 "Alejandro Rivera Sanchez" 67 83 58 52 76
+202212924 "Sofia Rivera Flores" 87 45 90 91 66 71 70
+202252005 "Valentina Hernandez Rivera" 80 89 85 86 61 79 79 79
+202230370 "Nicolas Ramirez Hernandez" 47 40 62 36 61 53 48 46 53
+202265409 "Javier Garcia Flores" 84 80 67 65 84 65 83 64
+202232795 "Fernanda Ramirez Gonzalez" 82 92 95 91 71 100
+202299878 "Javier Flores Alvarez" 67 65 61 65 66 59 61 65
+202290992 "Isabel Garcia Flores" 61 56 73 80 69
+202271954 "Javier Hernandez Perez" 62 63 61 60 70 67 68
+202294315 "Lucia Sanchez Martinez" 60 60 75 70 78 76 68 73
+202239589 "Lucia Rivera Perez" 36 57 62 65 49 41
+202222381 "Fernanda Torres Castillo" 75 69 62 68 73
+202285089 "Fernanda Hernandez Flores" 68 60 73 67 61
+202268951 "Isabel Castillo Perez" 66 66 67 67 67 71 73 68 67 72
+202258146 "Maria Torres Alvarez" 84 69 68 58 58 76 89
+202201487 "Maria Martinez Perez" 67 67 69 72 68 69 72 68 70 70
+202228378 "Diego Flores Castillo" 89 74 94 97 89 96 67
+202242937 "Fernanda Torres Flores" 63 70 81 75 76 80 56 62
+202244968 "Valentina Lopez Flores" 86 54 57 62 85 100 85 77 50 73
+202281121 "Nicolas Flores Torres" 86 71 87 92 84 79 97
+202241728 "Raul Romero Romero" 45 87 81 58 79 53 54
+202201874 "Lucia Perez Castillo" 83 90 84 61 48
+202216450 "Maria Rivera Garcia" 72 67 67 66 76 67
+202256977 "Raul Sanchez Romero" 39 88 43 60 90
+202278053 "Pablo Ramirez Perez" 55 62 59 55 55
+202254487 "Lucia Mendoza Torres" 67 89 65 73 80 86 78 85
+202260134 "Diego Romero Hernandez" 41 70 35 56 37 35 74 59 69
+202294941 "Maria Lopez Ramirez" 70 78 73 68 80
+202237738 "Nicolas Gonzalez Perez" 90 58 87 67 62 78
+202238664 "Nicolas Gonzalez Flores" 74 75 69 68 78 75
+202244940 "Lucia Martinez Alvarez" 71 61 65 78 80 64
+202241764 "Javier Ramirez Rivera" 70 75 66 39 60 83 55
+202212012 "Maria Lopez Flores" 93 84 65 42 84 88 53 57
+202289062 "Nicolas Perez Romero" 80 91 75 65 64 93
+202251183 "Nicolas Romero Martinez" 90 70 93 93 63 77 67 92
+202238529 "Fernanda Sanchez Hernandez" 43 32 41 32 43 76 40 48
+202296179 "Maria Flores Torres" 73 72 73 73 67 63 73 69 63
+202240994 "Javier Ramirez Ramirez" 58 51 70 53 72 55 71 54
+202219605 "Nicolas Torres Mendoza" 63 44 57 78 85 62 44 72 81
+202284119 "Gabriel Flores Flores" 74 92 73 75 85 75
+202247031 "Fernanda Martinez Alvarez" 65 81 72 92 61
+202256620 "Gabriel Lopez Torres" 75 43 60 47 42 71 56 69 44
+202243010 "Nicolas Martinez Lopez" 90 68 82 62 75 82 82 84 69
+202257458 "Lucia Gonzalez Castillo" 60 73 76 84 60
+202258572 "Diego Martinez Sanchez" 68 82 73 69 70 80 72 81 76
+202217158 "Isabel Rivera Martinez" 71 83 78 79 81
+202261262 "Raul Flores Flores" 70 70 53 62 82 56 65 69 76
+202264088 "Fernanda Hernandez Martinez" 73 84 84 75 82 69 78 75 69
+202290822 "Gabriel Mendoza Alvarez" 54 67 61 56 54
+202228209 "Nicolas Rivera Garcia" 72 73 66 67 73 66
+202230196 "Pablo Martinez Flores" 80 89 68 78 55 48 64 79
+202292891 "Nicolas Torres Perez" 72 67 38 67 61 68
+202244568 "Carlos Ramirez Garcia" 72 71 71 70 72 73
+202207969 "Carlos Perez Perez" 75 70 74 65 61 75 69 60 60
+202225839 "Javier Torres Ramirez" 95 69 73 93 75 54 74 85
+202280028 "Maria Perez Perez" 55 91 67 54 90 68 50 57
+202253913 "Carlos Ramirez Sanchez" 80 86 95 76 92 83 71 75 74 90
+202297886 "Carlos Lopez Ramirez" 75 70 72 74 70 68 72 68
+202257363 "Alejandro Ramirez Sanchez" 60 44 56 44 69 50 57 60 63 63
+202225464 "Raul Lopez Martinez" 59 71 58 69 65
+202229067 "Isabel Castillo Mendoza" 88 86 91 88 72
+202267763 "Lucia Gonzalez Hernandez" 70 74 70 74 77 70 78
+202298653 "Sofia Martinez Flores" 65 73 63 72 74
+202263078 "Pablo Hernandez Mendoza" 42 39 60 50 38 58 66 63 63
+202272824 "Gabriel Lopez Mendoza" 85 36 73 72 76 39 88 39 84
+202211373 "Valentina Sanchez Alvarez" 42 53 62 90 78 74 68 65 83
+202281819 "Isabel Martinez Martinez" 80 76 57 51 38 74 55 48 46 42
+202282998 "Isabel Hernandez Flores" 66 69 57 61 82 71 70 75 65 67
+202225202 "Maria Rivera Gonzalez" 79 50 57 80 53 58 49 59
+202272430 "Gabriel Romero Ramirez" 42 48 50 44 64 50 61 77
+202295686 "Sofia Alvarez Hernandez" 42 43 45 68 53 62 57 52 64
+202215173 "Valentina Hernandez Romero" 67 62 93 62 72 72 88 95
+202251393 "Javier Alvarez Gonzalez" 86 69 68 84 85
+202210762 "Sofia Ramirez Gonzalez" 63 66 72 81 76 81 78
+202276706 "Nicolas Alvarez Perez" 71 64 43 61 55 68 51 61 67 59
+202245772 "Sofia Martinez Lopez" 90 82 90 79 66 67 84 46 57 67
+202206214 "Elena Flores Sanchez" 62 47 60 60 51 45
+202269150 "Lucia Castillo Perez" 67 73 67 67 59 72 72 66
+202266978 "Nicolas Torres Gonzalez" 71 71 70 71 70 70 70 71 71 70
+202239120 "Nicolas Sanchez Rivera" 42 55 47 46 60 58 72 57 59
+202212058 "Valentina Ramirez Torres" 78 78 64 76 72 72
+202298606 "Carlos Flores Martinez" 54 52 45 85 40 50 62 64 57
+202233674 "Pablo Flores Romero" 61 95 63 46 77 67 86 67
+202238860 "Javier Sanchez Hernandez" 74 59 65 56 57 61 74 68
+202235289 "Sofia Gonzalez Perez" 62 60 63 82 54 61 82 94 85 80
+202214685 "Sofia Sanchez Mendoza" 66 75 93 68 79 65 97 81 69
+202276789 "Diego Alvarez Flores" 71 79 71 69 84 72
+202271412 "Valentina Lopez Lopez" 80 68 79 77 82
+202230208 "Javier Martinez Lopez" 67 84 49 55 34 82 86 80 39
+202233505 "Lucia Gonzalez Martinez" 65 49 58 68 75 80
+202269896 "Diego Perez Sanchez" 62 85 63 89 53
+202295505 "Nicolas Hernandez Gonzalez" 74 70 68 79 53 51 59 58
+202249084 "Carlos Ramirez Perez" 60 55 69 83 57 47 70 64 47
+202295020 "Fernanda Romero Mendoza" 69 68 77 68 75 70 74 71 75 76
+202245229 "Valentina Castillo Hernandez" 85 86 76 84 75 82
+202255878 "Javier Flores Hernandez" 63 63 39 63 71 76 57 69
+202254797 "Raul Garcia Mendoza" 47 69 68 66 70 57 47 66 47
+202281367 "Javier Mendoza Castillo" 68 67 82 81 66
+202270041 "Nicolas Hernandez Flores" 74 86 85 90 79
+202277897 "Valentina Martinez Mendoza" 52 75 90 80 54 72 57 71
+202232318 "Gabriel Mendoza Martinez" 68 50 53 65 41 79 67 51
+202230474 "Nicolas Garcia Mendoza" 90 79 73 83 81 69 89 80
+202290751 "Alejandro Mendoza Lopez" 84 90 86 58 88
+202201566 "Alejandro Martinez Gonzalez" 73 72 73 72 71 70 69 73 71 73
+202257719 "Gabriel Alvarez Rivera" 49 61 73 56 60 62
+202282237 "Valentina Gonzalez Flores" 80 70 81 42 65 70 74
+202288312 "Pablo Flores Rivera" 67 80 86 61 71
+202280050 "Javier Ramirez Garcia" 74 78 80 85 83 83 83
+202221262 "Gabriel Ramirez Lopez" 64 49 73 71 74 67 62 75 95
+202213402 "Diego Mendoza Martinez" 86 66 83 57 60 87
+202232144 "Maria Torres Sanchez" 76 60 51 60 64 70 84 85 51
+202261302 "Alejandro Martinez Alvarez" 83 77 80 59 63 67 81 61
+202299344 "Diego Rivera Garcia" 77 54 61 63 59 83 55 70 56 58
+202244327 "Raul Sanchez Martinez" 78 55 60 74 89 88 81 72
+202261419 "Elena Castillo Romero" 76 83 85 44 70 87 71 89 74 44
+202254779 "Carlos Torres Romero" 58 69 76 62 74 50 44 72 48
+202250922 "Javier Martinez Flores" 79 89 76 72 77 86 75 77 90
+202252822 "Maria Gonzalez Flores" 80 42 56 70 86 49 72 88
+202205992 "Raul Mendoza Romero" 63 76 70 79 74 49
+202202760 "Isabel Ramirez Lopez" 88 75 77 85 84 88
+202223346 "Diego Gonzalez Ramirez" 44 47 40 46 49 55
+202280043 "Isabel Ramirez Martinez" 75 91 91 77 70 85 81 64 78
+202214495 "Gabriel Alvarez Lopez" 61 53 75 68 80 62 71 77 72 65
+202289048 "Elena Gonzalez Gonzalez" 64 58 65 55 70 67 59 51 54 61
+202203375 "Raul Garcia Flores" 57 54 96 87 63 52 56 57 84 85
+202258646 "Carlos Alvarez Alvarez" 68 75 74 62 64 75 66 60
+202276832 "Valentina Torres Alvarez" 90 86 65 65 83 99 92
+202225939 "Raul Ramirez Flores" 75 66 67 72 73 68 75 75
+202259716 "Alejandro Romero Alvarez" 75 57 57 69 75 61
+202200597 "Gabriel Perez Garcia" 72 46 43 79 45 82 71
+202211922 "Sofia Garcia Mendoza" 66 94 79 53 56
+202210512 "Elena Torres Ramirez" 63 43 95 86 62 73 83
+202208039 "Maria Gonzalez Martinez" 61 88 72 98 52 71 69
+202236172 "Alejandro Mendoza Castillo" 59 59 82 48 89 48 55
+202279331 "Diego Rivera Flores" 71 41 80 76 57 38 55
+202202111 "Fernanda Perez Martinez" 45 61 44 47 86 47 60 56 79 63
+202239456 "Maria Rivera Flores" 76 74 73 68 88 91 79 80
+202251153 "Lucia Ramirez Sanchez" 70 74 73 71 77 75 71 63 65
+202216731 "Alejandro Gonzalez Garcia" 39 51 62 50 38 37 39 66 61 77
+202278700 "Valentina Flores Sanchez" 75 84 85 97 91 88 76 77 87
+202255664 "Alejandro Romero Garcia" 75 69 68 68 76 75
+202206753 "Sofia Torres Hernandez" 77 54 74 64 59 51
+202284730 "Fernanda Ramirez Sanchez" 41 34 84 31 47
+202246891 "Pablo Rivera Mendoza" 87 96 69 82 86
+202257749 "Elena Rivera Torres" 93 72 91 73 75 70 67 93
+202229863 "Sofia Mendoza Perez" 59 77 53 53 90
+202248269 "Javier Sanchez Rivera" 83 74 72 75 69 76 78
+202212530 "Elena Flores Flores" 62 78 73 85 52 73 75 72
+202222623 "Raul Torres Castillo" 71 67 67 65 71 64
+202284612 "Alejandro Alvarez Ramirez" 47 50 39 59 70 40 42 59 75 44
+202299687 "Isabel Romero Ramirez" 50 60 48 78 49
+202238002 "Carlos Torres Hernandez" 83 88 72 85 80 86 75 93
+202200704 "Isabel Hernandez Sanchez" 90 46 44 74 34 59 87
+202254570 "Fernanda Romero Martinez" 79 63 74 78 68 63 66 79 70
+202294469 "Pablo Sanchez Lopez" 58 91 60 84 91 54
+202225868 "Lucia Gonzalez Mendoza" 44 71 64 53 70
+202291353 "Isabel Perez Torres" 71 71 70 75 75 76
+202274426 "Fernanda Alvarez Garcia" 68 69 56 71 63 59
+202238479 "Pablo Perez Martinez" 62 65 70 54 88 63 73 86
+202236641 "Elena Perez Gonzalez" 60 72 69 90 84 93 84 58 65 92
+202280284 "Raul Ramirez Romero" 87 92 75 90 97 99 95 98 83
+202282075 "Pablo Flores Mendoza" 38 56 31 66 64 38 31 32 52 66
+202290352 "Sofia Romero Sanchez" 83 49 74 74 59 58 63 80 65
+202242548 "Nicolas Perez Castillo" 83 80 41 72 83 65 81 77 48 53
+202229042 "Maria Torres Castillo" 48 49 56 49 38 73 53 75 60 46
+202224534 "Isabel Mendoza Lopez" 84 73 84 62 70 72
+202260660 "Alejandro Flores Rivera" 73 62 43 79 66 73 83 74 63
+202229525 "Sofia Flores Martinez" 73 40 44 37 70 58 43 41 49
+202256121 "Fernanda Flores Sanchez" 65 39 54 68 42
+202254117 "Fernanda Romero Rivera" 49 45 55 62 50 71
+202254283 "Lucia Romero Garcia" 58 40 63 71 51
+202244373 "Carlos Torres Torres" 72 92 86 62 61 77 70
+202204256 "Sofia Rivera Gonzalez" 60 37 72 79 73
+202207613 "Isabel Garcia Torres" 93 77 96 87 93 91
+202280415 "Diego Gonzalez Lopez" 81 88 90 65 64 62 77
+202292060 "Carlos Martinez Gonzalez" 58 83 67 78 74 78
+202290618 "Lucia Martinez Sanchez" 80 62 60 83 77 86 81 65 62 79
+202294336 "Maria Romero Martinez" 43 60 60 44 73 64 70
+202206078 "Maria Ramirez Torres" 68 66 70 53 64 68 74 55 65 73
+202288825 "Carlos Flores Torres" 87 65 87 76 78
+202273808 "Valentina Martinez Perez" 73 72 68 73 72
+202239487 "Diego Lopez Hernandez" 79 78 77 71 82 90 87 91 81 79
+202281397 "Raul Gonzalez Garcia" 87 73 89 83 80 92 80 71 88 89
+202299407 "Maria Perez Ramirez" 67 60 58 71 67 57 52 69 53 55
+202222812 "Raul Ramirez Torres" 66 44 49 78 94
+202255841 "Alejandro Hernandez Sanchez" 51 58 72 56 71 72 72
+202261013 "Lucia Garcia Rivera" 44 79 44 54 65 41 72
+202238864 "Elena Garcia Flores" 43 62 40 55 66 49 59 46 40 69
+202271028 "Gabriel Alvarez Torres" 79 46 67 47 67 70 88 88 66 50
+202207429 "Elena Sanchez Garcia" 68 48 77 70 60 84 44 61 63
+202279335 "Valentina Romero Garcia" 78 47 74 61 60
+202291238 "Raul Rivera Lopez" 59 81 74 80 74 46
+202255879 "Valentina Rivera Garcia" 59 60 72 97 69 94
+202280216 "Maria Castillo Romero" 78 92 76 64 91 84 70 74 77
+202225604 "Valentina Alvarez Lopez" 48 79 56 64 81 83 44 66 44 86
+202234688 "Diego Garcia Garcia" 66 53 98 60 86 57 92 51 94 98
+202272458 "Carlos Lopez Gonzalez" 88 67 67 83 80 78 90 74 87
+202253167 "Valentina Sanchez Sanchez" 79 40 66 50 53 85 82 83 49 38
+202283521 "Javier Mendoza Alvarez" 69 64 72 58 76 64
+202296192 "Alejandro Martinez Lopez" 75 72 73 75 71 75
+202285076 "Lucia Garcia Hernandez" 40 95 85 68 73 60 83 91 86
+202260818 "Lucia Alvarez Mendoza" 71 78 77 85 82 65 88
+202277975 "Isabel Gonzalez Lopez" 48 68 62 54 66 74 58 51
+202267221 "Alejandro Flores Lopez" 74 60 64 68 52 55 74 60 76
+202232238 "Carlos Gonzalez Martinez" 53 48 81 37 46 32 84 79
+202249378 "Nicolas Martinez Rivera" 70 50 72 38 56 74 47 49 49
+202240883 "Diego Flores Perez" 46 61 40 46 52 68 46 68
+202229795 "Raul Hernandez Garcia" 76 74 78 69 74 78 78 74 85
+202296079 "Carlos Mendoza Ramirez" 63 73 64 59 65 68 69 72 68
+202264427 "Elena Castillo Hernandez" 66 82 74 64 84 67
+202288939 "Sofia Garcia Rivera" 55 57 73 55 60 76 75 85
+202246879 "Valentina Perez Flores" 71 79 78 76 71
+202207533 "Maria Martinez Garcia" 67 65 50 61 62 54 60 64 65 60
+202221758 "Isabel Romero Torres" 34 57 50 43 41 61 32 45
+202252154 "Nicolas Sanchez Torres" 67 69 57 57 69 50 49
+202201993 "Javier Rivera Romero" 71 31 33 43 50
+202236035 "Maria Romero Flores" 77 71 76 66 72 63
+202237940 "Alejandro Ramirez Hernandez" 81 66 68 69 70 74 79 71 71 90
+202285422 "Diego Hernandez Lopez" 67 51 72 57 65 48 79 79 51
+202281460 "Fernanda Rivera Ramirez" 75 92 99 93 78 83
+202231777 "Carlos Garcia Ramirez" 64 76 71 72 76 79 87 60 88 70
+202230995 "Sofia Sanchez Hernandez" 69 60 64 54 52 45 50 49 63
+202275425 "Isabel Sanchez Ramirez" 73 88 94 94 83 86 80 79 72 91
+202273586 "Maria Torres Ramirez" 70 67 69 68 68 72
+202216239 "Gabriel Torres Rivera" 60 74 68 59 61 72 62
+202285140 "Elena Ramirez Garcia" 54 61 45 61 51 57
+202287122 "Isabel Castillo Flores" 62 63 79 58 41 76
+202203381 "Pablo Torres Perez" 75 53 59 64 67 65 61 53 55
+202247428 "Sofia Gonzalez Lopez" 72 62 60 74 69 62
+202231089 "Lucia Lopez Torres" 79 75 69 81 81 71 78 75 76
+202261567 "Lucia Mendoza Lopez" 44 36 61 48 51 43
+202225532 "Javier Castillo Lopez" 55 42 51 55 52 47 69 39 58
+202270191 "Raul Rivera Hernandez" 48 50 46 43 57 62
+202202487 "Diego Lopez Rivera" 72 74 85 73 55 70
+202253483 "Pablo Lopez Gonzalez" 66 98 98 73 95 62 85 53 74
+202244794 "Nicolas Alvarez Ramirez" 98 62 86 66 90 78 81 66 82
+202289948 "Elena Martinez Mendoza" 47 60 37 87 62 83 36 87
+202283584 "Nicolas Romero Mendoza" 48 77 67 43 85 63 54
+202242786 "Elena Garcia Lopez" 54 67 57 89 62 65 67 52 36
+202290433 "Javier Gonzalez Lopez" 76 66 64 69 68 67 74 54
+202220155 "Elena Flores Mendoza" 71 58 66 81 69 47 46 58
+202276030 "Pablo Ramirez Torres" 78 69 57 84 86 79 75 57 90 69
+202224071 "Nicolas Martinez Perez" 53 46 52 47 47 41 54
+202221633 "Fernanda Castillo Hernandez" 88 91 87 92 54
+202264430 "Sofia Romero Flores" 64 58 70 75 73
+202229974 "Alejandro Ramirez Perez" 75 73 74 72 85 87 75 70
+202260363 "Raul Gonzalez Castillo" 58 67 60 54 81 62 82 58 69 71
+202251399 "Isabel Rivera Alvarez" 67 86 91 77 69 89
+202248510 "Lucia Mendoza Gonzalez" 79 63 72 69 78 82 75 74 73
+202267889 "Gabriel Rivera Gonzalez" 82 79 73 77 71 69 76 73 82 81
+202201515 "Diego Garcia Mendoza" 48 83 77 81 39 54 32 77 57
+202245607 "Fernanda Alvarez Sanchez" 67 65 74 58 73 51
+202296746 "Lucia Ramirez Alvarez" 40 75 70 88 54 62 43 84 82
+202241761 "Valentina Gonzalez Alvarez" 40 61 50 78 77 80 41 47 41
+202298283 "Maria Perez Martinez" 57 38 34 65 52
+202225475 "Elena Alvarez Perez" 78 47 70 56 49
+202258660 "Alejandro Romero Torres" 67 66 62 63 62 78 80 75 54 76
+202233215 "Valentina Hernandez Ramirez" 52 79 56 58 94 71 83 98
+202236222 "Diego Rivera Lopez" 73 82 71 83 64 61 73 69
+202209393 "Nicolas Lopez Hernandez" 45 50 62 58 73 61 64 71 59
+202261759 "Sofia Sanchez Martinez" 37 71 44 65 79
+202241176 "Sofia Hernandez Lopez" 65 89 77 92 77 93 94 69
+202294871 "Nicolas Martinez Garcia" 94 75 63 63 77 70 91 93 94 71
+202224706 "Fernanda Castillo Sanchez" 64 46 70 46 79 52
+202227796 "Raul Garcia Garcia" 54 81 61 66 62 56 70 64 50
+202267177 "Alejandro Garcia Flores" 44 37 32 55 69 55 34 44 60 36
+202202519 "Elena Castillo Gonzalez" 83 86 88 88 86 83
+202271156 "Alejandro Alvarez Perez" 51 58 64 63 60 61 51 60 50
+202273023 "Fernanda Gonzalez Ramirez" 77 67 67 62 71 76 49
+202264833 "Elena Gonzalez Rivera" 68 87 73 68 84 82 76 91
+202216831 "Raul Mendoza Hernandez" 69 64 66 77 74 58 78 65 58 71
+202297105 "Maria Mendoza Hernandez" 74 75 55 71 53
+202287960 "Fernanda Lopez Ramirez" 65 54 60 56 68 60 73
+202255651 "Raul Perez Perez" 63 67 73 75 73
+202229695 "Alejandro Sanchez Torres" 65 55 55 73 62
+202278421 "Diego Martinez Mendoza" 61 61 69 67 49 79 51 51 60
+202282686 "Isabel Perez Lopez" 66 74 59 68 49 65 77
+202287041 "Valentina Perez Martinez" 79 98 67 69 74 62 100 87
+202282648 "Elena Perez Mendoza" 56 71 50 72 76 42 69
+202226497 "Pablo Lopez Perez" 61 73 74 66 74 69 69 70 66 74
+202241819 "Valentina Martinez Hernandez" 56 67 59 57 60 74 75
+202232264 "Nicolas Torres Flores" 43 59 60 72 53 76 48 55
+202220159 "Diego Rivera Ramirez" 67 80 69 68 51 47 55
+202266923 "Pablo Torres Alvarez" 73 81 64 68 74 65 59 72
+202263333 "Elena Sanchez Lopez" 84 63 77 74 67 69 72
+202263274 "Javier Hernandez Garcia" 58 68 62 63 73 54 68 54 65
+202260935 "Gabriel Hernandez Martinez" 74 75 71 65 68 70 70 74 69
+202252227 "Carlos Torres Perez" 44 40 51 50 48 54 63 78 39 36
+202259556 "Raul Alvarez Perez" 64 84 66 87 71 84
+202202204 "Lucia Martinez Torres" 77 96 59 87 63
+202256938 "Isabel Sanchez Gonzalez" 61 57 37 64 61 59 70 53
+202292116 "Javier Alvarez Perez" 60 50 67 68 52 78 63 64
+202218381 "Nicolas Martinez Romero" 72 84 60 76 75 79 73 91 74 75
+202226452 "Lucia Martinez Lopez" 65 56 65 34 48 39 82
+202264051 "Maria Ramirez Martinez" 89 76 69 89 69 70 82
+202209780 "Gabriel Martinez Alvarez" 75 86 70 71 85 76 75 88 73 88
+202263362 "Nicolas Lopez Lopez" 47 57 45 70 52 68 43
+202253165 "Isabel Martinez Mendoza" 73 54 56 70 64 58
+202255263 "Carlos Mendoza Castillo" 56 56 52 67 66 66 62
+202211481 "Alejandro Garcia Rivera" 55 59 73 61 47 46 74 55 50
+202262864 "Javier Rivera Martinez" 69 78 78 59 69 54
+202202719 "Raul Gonzalez Sanchez" 63 69 85 65 74 70 78 68
+202229769 "Javier Mendoza Rivera" 51 64 52 71 53 53 60 61 54 56
+202256095 "Carlos Lopez Romero" 58 77 72 63 67 86 68 88 84
+202225970 "Valentina Hernandez Sanchez" 51 41 72 41 76 49 38 52
+202210241 "Diego Torres Sanchez" 65 82 87 60 60 73 74 59 49 57
+202238352 "Raul Torres Rivera" 73 66 69 78 76 66
+202280222 "Diego Torres Gonzalez" 72 60 56 87 76 75
+202233725 "Isabel Rivera Perez" 90 91 51 84 40 77
+202262308 "Maria Castillo Mendoza" 55 68 35 58 56
+202223363 "Alejandro Mendoza Garcia" 55 61 53 66 75 46 49
+202228606 "Fernanda Mendoza Flores" 69 63 51 63 58 75 75 76 73
+202262027 "Gabriel Romero Rivera" 89 60 73 70 91 62 60 82 79 70
+202202413 "Nicolas Lopez Rivera" 71 72 69 69 68 68 70 69 70
+202245697 "Alejandro Sanchez Lopez" 76 92 89 77 88 90 96 76
+202246378 "Valentina Gonzalez Castillo" 69 43 76 56 75 45
+202217947 "Isabel Rivera Torres" 56 80 77 80 75 61 74 63 81 58
+202290912 "Valentina Hernandez Castillo" 54 90 70 82 88 47
+202269874 "Lucia Garcia Sanchez" 82 57 67 55 82 44 63 89
+202293929 "Pablo Alvarez Rivera" 72 62 77 75 64 87 65 78 76
+202239509 "Valentina Hernandez Flores" 47 46 45 50 49 53 55 59 61 52
+202223658 "Elena Mendoza Romero" 79 73 66 99 71 74 89 62
+202255611 "Maria Ramirez Ramirez" 64 85 66 64 65 76 92 74
+202266567 "Gabriel Torres Martinez" 48 39 41 56 34 38 49 63
+202264256 "Nicolas Ramirez Gonzalez" 64 51 51 68 45 65 47 49 57
+202209483 "Isabel Alvarez Castillo" 74 67 83 91 68
+202216064 "Fernanda Garcia Alvarez" 71 68 67 67 71 71
+202275800 "Carlos Rivera Castillo" 54 66 83 57 83 81 65 76 75 77
+202299508 "Elena Torres Hernandez" 68 61 52 63 46 77 53 73
+202296169 "Isabel Perez Alvarez" 70 79 72 63 71 56 68
+202255435 "Sofia Gonzalez Sanchez" 47 68 65 60 36
+202278524 "Nicolas Ramirez Martinez" 43 57 58 46 76 77 79
+202209199 "Carlos Hernandez Martinez" 61 71 65 71 73
+202229384 "Pablo Ramirez Castillo" 76 64 64 78 74 78 78
+202200844 "Alejandro Romero Mendoza" 89 76 99 74 91 82
+202272618 "Sofia Mendoza Garcia" 64 68 60 73 41 73
+202217169 "Lucia Sanchez Gonzalez" 87 79 53 87 48 65 53 47 57
+202204992 "Fernanda Ramirez Garcia" 68 94 67 92 69 93
+202218649 "Pablo Sanchez Sanchez" 78 72 69 79 78
+202248319 "Lucia Torres Gonzalez" 92 68 62 71 71 46 79 54 78
+202248131 "Carlos Garcia Martinez" 91 56 92 74 45
+202214608 "Javier Rivera Ramirez" 71 63 75 91 56 72 75 85
+202243768 "Isabel Garcia Alvarez" 81 75 77 80 68 68 67 96 79 70
+202245518 "Raul Hernandez Perez" 74 66 64 69 62 71
+202264085 "Gabriel Rivera Mendoza" 87 76 85 71 85
+202286737 "Diego Alvarez Mendoza" 54 84 86 70 50 68 63 78 51 78
+202214278 "Javier Castillo Mendoza" 74 39 54 95 88 45
+202238804 "Valentina Hernandez Martinez" 73 50 74 72 61 54 59 67 69
+202266230 "Pablo Perez Mendoza" 67 57 65 62 56 58 63
+202268403 "Fernanda Rivera Romero" 93 72 79 84 58 97
+202270418 "Pablo Rivera Martinez" 74 69 73 72 67 70 68 69 74
+202208052 "Sofia Perez Castillo" 73 80 71 73 69 80 71
+202213680 "Carlos Romero Ramirez" 81 85 77 57 68 69 57
+202205848 "Elena Ramirez Castillo" 66 69 62 60 64 66 61 60 68 76
+202228719 "Pablo Torres Sanchez" 96 71 92 89 69 92
+202212995 "Elena Hernandez Hernandez" 71 82 79 77 78
+202201104 "Fernanda Alvarez Romero" 72 46 68 67 46 86 88
+202231536 "Sofia Castillo Torres" 64 68 59 52 57
+202240915 "Isabel Lopez Castillo" 47 60 49 48 62 74 85 67 85 72
+202285052 "Lucia Lopez Martinez" 67 67 71 68 67 68
+202299655 "Sofia Ramirez Hernandez" 93 81 62 91 83 92 90 65 65
+202201472 "Valentina Garcia Rivera" 92 78 91 71 75
+202223103 "Lucia Flores Castillo" 81 93 83 78 84
+202219823 "Lucia Alvarez Castillo" 69 74 66 73 79 70 73
+202248397 "Gabriel Garcia Hernandez" 73 82 73 73 74 67 71 69 81 70
+202292680 "Raul Mendoza Perez" 79 92 74 67 64
+202219988 "Isabel Flores Rivera" 77 91 75 71 76 72 63
+202200177 "Javier Alvarez Lopez" 69 76 79 75 72 71 79 69
+202277350 "Alejandro Alvarez Garcia" 93 68 63 70 65 74 89 87 70
+202275754 "Sofia Flores Hernandez" 52 67 55 51 82 56 52
+202259088 "Javier Romero Ramirez" 67 83 51 48 53 80
+202263428 "Nicolas Castillo Torres" 69 65 70 68 64 71 68
+202236563 "Isabel Gonzalez Castillo" 67 69 71 70 68
+202277796 "Isabel Alvarez Flores" 65 47 52 71 44 51 55 60 56 58
+202220697 "Valentina Alvarez Martinez" 78 66 73 67 63 70 68
+202264354 "Isabel Hernandez Hernandez" 79 80 81 69 83 80 71
+202273721 "Pablo Alvarez Garcia" 90 88 82 96 49 94 46
+202299285 "Maria Lopez Perez" 45 45 73 78 56 46 43 44
+202293292 "Valentina Hernandez Torres" 74 70 75 82 69 69 72 75 71
+202226326 "Gabriel Sanchez Sanchez" 55 64 89 64 60 46 46
+202255692 "Isabel Torres Martinez" 63 58 74 69 66 66 73 75
+202216894 "Alejandro Perez Gonzalez" 87 61 60 83 49 73 79 37
+202231175 "Elena Hernandez Mendoza" 62 41 56 88 48 41
+202230481 "Maria Sanchez Sanchez" 81 50 86 81 52 85
+202236816 "Maria Castillo Lopez" 85 58 57 81 82 78 70 80 79 65
+202218773 "Isabel Perez Flores" 70 71 73 87 71 88 76 86 81
+202203880 "Pablo Flores Torres" 75 54 33 81 38 73 52 75
+202252288 "Raul Torres Martinez" 68 67 68 71 68 70
+202252113 "Carlos Perez Hernandez" 79 51 92 49 51 72 69
+202248972 "Fernanda Flores Lopez" 80 64 89 77 83 89 72
+202249971 "Pablo Hernandez Rivera" 72 91 80 82 78 70
+202236903 "Nicolas Lopez Gonzalez" 72 80 73 75 72 74 73 75 80 77
+202279100 "Alejandro Perez Romero" 65 92 91 65 73 62 56 86 56
+202238920 "Diego Romero Alvarez" 84 72 72 74 82 81
+202213271 "Maria Gonzalez Alvarez" 67 79 95 69 74 54 99
+202282192 "Sofia Torres Martinez" 67 77 55 75 81 63 55 80 58
+202210226 "Gabriel Gonzalez Torres" 60 66 66 66 57 71
+202251884 "Maria Romero Perez" 67 72 70 68 74 74 73 68 74
+202258512 "Fernanda Alvarez Flores" 52 64 56 52 58 47 59
+202205923 "Gabriel Romero Mendoza" 49 56 59 56 79 62 88 71
+202230507 "Carlos Martinez Perez" 71 54 72 61 97 88 51 73
+202221281 "Isabel Alvarez Gonzalez" 98 90 50 73 36 88 79 99
+202206566 "Alejandro Hernandez Alvarez" 80 87 82 47 68 87 41 38 74 41
+202282035 "Isabel Romero Garcia" 68 68 70 62 75 66 74
+202237457 "Raul Hernandez Rivera" 61 63 66 66 73 53
+202293822 "Carlos Martinez Castillo" 72 60 72 72 71 72 65 64
+202245155 "Raul Flores Hernandez" 72 68 85 92 78 79 82 91
+202264439 "Maria Garcia Flores" 75 74 56 59 58
+202258058 "Fernanda Perez Torres" 72 56 74 75 68 76
+202280676 "Raul Lopez Mendoza" 53 45 51 57 48 66 46 52 55
+202292894 "Maria Ramirez Rivera" 68 35 48 43 55 55
+202261378 "Carlos Sanchez Romero" 73 70 68 77 68 72
+202294069 "Alejandro Romero Flores" 53 47 60 48 53 71 54 54 59 48
+202237626 "Raul Sanchez Garcia" 81 87 68 55 84 36
+202250951 "Diego Alvarez Martinez" 48 50 39 72 44
+202279678 "Fernanda Sanchez Gonzalez" 60 37 46 53 37 34 61 36
+202288777 "Alejandro Romero Hernandez" 57 64 63 68 61 65 67 66 59 56
+202202500 "Raul Perez Lopez" 47 42 46 60 38 66 72 49 39
+202203385 "Carlos Garcia Romero" 78 61 75 85 59
+202201716 "Diego Lopez Lopez" 74 90 93 78 72 82 75 80
+202255215 "Sofia Castillo Hernandez" 76 84 83 77 88 76 85 75
+202210689 "Nicolas Rivera Alvarez" 82 38 68 71 38
+202230822 "Valentina Rivera Martinez" 83 62 52 60 72 76 52 72 85 61
+202276916 "Isabel Gonzalez Mendoza" 44 71 45 77 73 46
+202288659 "Lucia Ramirez Mendoza" 61 45 35 59 55 40 33 34 54 56
+202202746 "Sofia Garcia Torres" 71 63 63 68 69 64
+202223100 "Diego Romero Gonzalez" 62 40 84 55 66 67 88 43
+202222448 "Valentina Perez Ramirez" 70 72 72 54 52 58 81 51
+202216604 "Pablo Ramirez Lopez" 79 66 70 85 73 75 86
+202221242 "Javier Flores Flores" 70 35 66 57 38 44 62 59 56 46
+202234731 "Pablo Lopez Sanchez" 79 74 79 72 77 75
+202273227 "Fernanda Torres Perez" 68 67 70 61 66 52 68 62 55 62
+202205370 "Sofia Perez Ramirez" 93 80 63 52 68 58 84
+202267668 "Nicolas Gonzalez Garcia" 79 71 67 75 71 72 73 76
+202219498 "Diego Perez Garcia" 60 77 81 56 58 83 73
+202206643 "Lucia Ramirez Lopez" 62 80 61 71 64 72 68 68 63
+202270504 "Sofia Gonzalez Mendoza" 58 88 68 59 82 72 67 84 68
+202205298 "Isabel Gonzalez Rivera" 40 44 66 69 38 57 69 67 66
+202202664 "Lucia Perez Perez" 80 65 62 54 65 75 60 81 78
+202205613 "Fernanda Gonzalez Sanchez" 63 75 75 72 79 78 82 66 71
+202274981 "Nicolas Alvarez Garcia" 73 65 80 72 64 61 83 46 83
+202252975 "Pablo Rivera Castillo" 32 81 35 66 63 45 82 82 66 32
+202285627 "Javier Flores Garcia" 89 63 90 95 59 91 50
+202224193 "Elena Flores Ramirez" 76 88 82 71 87 68 77
+202229680 "Elena Gonzalez Martinez" 72 58 58 63 60 58 73 76 69 69
+202245507 "Javier Alvarez Romero" 85 88 75 91 70 73 78 72 78
+202251688 "Sofia Rivera Romero" 64 63 60 74 77 74 66 94
+202295472 "Carlos Sanchez Hernandez" 82 96 55 45 80 79 58 71 59
+202216084 "Gabriel Hernandez Romero" 73 72 76 66 81 65 60
+202275671 "Elena Torres Garcia" 69 74 73 77 71 73 68 72
+202265447 "Fernanda Rivera Garcia" 68 77 72 68 73 70 78 76 80 75
+202206650 "Javier Gonzalez Martinez" 69 56 57 66 45 76 75 54
+202287869 "Raul Romero Lopez" 73 66 69 77 68 74 73 78 75 68
+202210917 "Raul Alvarez Rivera" 73 47 63 56 50 76
+202261666 "Elena Martinez Martinez" 55 75 88 69 60 62
+202224629 "Pablo Alvarez Alvarez" 62 90 69 89 63 72
+202226935 "Alejandro Ramirez Mendoza" 70 55 92 54 75 64 94 73
+202275004 "Alejandro Ramirez Gonzalez" 98 85 48 48 85 54 92 75 67
+202272096 "Alejandro Rivera Hernandez" 54 61 69 67 64
+202273530 "Lucia Flores Gonzalez" 54 45 62 61 72 67 46 46 57
+202264734 "Lucia Torres Hernandez" 74 59 34 37 51 57 74 48 69
+202256010 "Javier Garcia Mendoza" 80 63 56 63 76
+202251668 "Nicolas Flores Hernandez" 89 75 76 58 63 96 71 81 82 79
+202208213 "Alejandro Perez Castillo" 69 78 61 70 55 68 77 61
+202233553 "Sofia Perez Perez" 54 68 85 91 76 82 47 45 78 95
+202216096 "Valentina Flores Martinez" 63 64 47 55 61 54 50 69 51 59
+202231931 "Carlos Ramirez Martinez" 53 80 58 80 84 61 62
+202206374 "Nicolas Perez Gonzalez" 60 90 77 79 57 60
+202275837 "Javier Lopez Torres" 40 75 59 40 76 59 51
+202294876 "Gabriel Ramirez Sanchez" 73 62 41 70 66 62
+202233801 "Sofia Garcia Gonzalez" 54 45 54 62 64 74 46 62 48 44
+202222966 "Maria Alvarez Sanchez" 72 87 53 83 64 50 60 88
+202244301 "Nicolas Ramirez Rivera" 79 85 77 78 75
+202243040 "Maria Ramirez Castillo" 83 93 91 74 73 92
+202231299 "Raul Flores Lopez" 49 71 81 44 80 70 81 44 88
+202219229 "Elena Sanchez Torres" 90 50 47 39 74 44 49 54 90 50
+202240457 "Raul Torres Ramirez" 69 72 85 74 78 73 71 63
+202214650 "Gabriel Sanchez Torres" 61 72 61 73 60 68 74
+202262763 "Diego Mendoza Romero" 69 88 69 73 84 93 68 76 91
+202271779 "Fernanda Romero Castillo" 70 71 68 76 77
+202206803 "Alejandro Hernandez Castillo" 62 52 60 35 72 54
+202200114 "Carlos Martinez Garcia" 81 67 60 51 70 67 90 78
+202263438 "Fernanda Perez Castillo" 66 66 66 69 77
+202222361 "Gabriel Garcia Romero" 72 61 60 63 67 58 60
+202214837 "Pablo Sanchez Alvarez" 69 46 75 72 91 78 65 80 85 92
+202225089 "Isabel Sanchez Romero" 73 69 60 67 81 86 51 76 63 83
+202255911 "Carlos Hernandez Rivera" 57 61 85 72 89
+202291975 "Isabel Sanchez Castillo" 52 43 47 41 50
+202270459 "Elena Romero Sanchez" 46 79 68 50 55 60 77 69 46 71
+202285353 "Carlos Ramirez Romero" 63 55 70 51 91
+202241061 "Elena Alvarez Rivera" 70 73 70 70 70 70 68 67 68 68
+202235311 "Carlos Sanchez Gonzalez" 54 54 75 67 67 77 55
+202232610 "Elena Romero Rivera" 86 63 85 81 50 64 62 50
+202289739 "Lucia Hernandez Sanchez" 91 53 96 72 46 54 80
+202273622 "Gabriel Torres Ramirez" 97 66 77 66 77
+202295385 "Alejandro Torres Perez" 69 64 66 55 60 67 76 60 65
+202287760 "Carlos Martinez Rivera" 63 70 66 74 68 67 69
+202299657 "Valentina Ramirez Alvarez" 85 67 63 59 81 60 80 70
+202293028 "Raul Alvarez Flores" 61 62 73 63 69 51
+202293231 "Gabriel Perez Gonzalez" 93 60 93 78 90 86 32 49 96
+202207898 "Fernanda Rivera Perez" 79 50 70 61 58 82
+202222683 "Sofia Sanchez Sanchez" 59 61 59 74 60 52 71 61 59 52
+202263030 "Alejandro Garcia Torres" 65 74 67 78 73 71 78 74 63
+202289146 "Diego Perez Gonzalez" 40 73 81 60 56 79 58 50 81
+202232076 "Carlos Torres Mendoza" 77 79 77 81 82 68 75 75 83
+202235495 "Raul Romero Ramirez" 81 58 70 82 61 85
+202258091 "Fernanda Lopez Gonzalez" 59 72 66 77 61 65 84
+202291519 "Gabriel Alvarez Perez" 61 58 39 46 40 66 39 73 68 40
+202260156 "Diego Mendoza Garcia" 70 64 68 64 71 74 61 80 66 74
+202242672 "Pablo Torres Garcia" 77 76 68 91 62 83 94 80 96
+202240706 "Isabel Garcia Lopez" 49 56 65 41 40 57 80 60 68
+202236608 "Fernanda Alvarez Castillo" 57 56 49 68 47 50 58 38
+202237480 "Fernanda Ramirez Alvarez" 70 66 62 69 68 65
+202235956 "Gabriel Gonzalez Alvarez" 81 60 48 76 68 53 90 39 85 62
+202299103 "Diego Mendoza Mendoza" 72 71 72 72 68 69 73
+202238961 "Valentina Gonzalez Garcia" 47 72 38 68 55 42 45 74 36 74
+202294217 "Valentina Flores Ramirez" 82 48 38 82 83 47 88 63 36 81
+202253727 "Nicolas Mendoza Romero" 53 75 84 78 48 63 77 81 91 51
+202285713 "Alejandro Mendoza Mendoza" 70 69 54 45 56 48 47 56 40 45
+202251538 "Carlos Torres Martinez" 53 70 77 78 89 93 92 63 91 78
+202251021 "Lucia Alvarez Lopez" 70 58 42 50 80 53 50
+202209412 "Pablo Alvarez Perez" 80 82 74 82 83 75 73 71 71
+202237364 "Isabel Perez Garcia" 77 79 66 70 75
+202295475 "Valentina Sanchez Rivera" 80 63 82 80 68 63 83 82 67 61
+202297489 "Lucia Mendoza Perez" 70 96 51 76 81 87 63 64
+202215092 "Isabel Lopez Sanchez" 65 84 76 70 75 90
+202239728 "Carlos Lopez Torres" 55 47 59 74 39 93 59
+202216073 "Fernanda Rivera Rivera" 66 70 51 41 54 56 76
+202256399 "Javier Sanchez Lopez" 52 69 86 81 40 86 65 96
+202215039 "Nicolas Romero Gonzalez" 59 55 78 57 75 69 71 87
+202254094 "Fernanda Torres Lopez" 59 73 57 77 54 73
+202223495 "Pablo Rivera Rivera" 49 67 53 72 48 62 73
+202247568 "Elena Ramirez Flores" 47 37 66 41 44 40 44
+202275672 "Diego Castillo Mendoza" 54 53 55 51 66 66
+202299634 "Valentina Rivera Hernandez" 61 57 65 69 53
+202258915 "Elena Sanchez Perez" 49 52 61 62 64 60 60
+202227837 "Sofia Romero Hernandez" 65 75 69 73 65 70 74 72
+202249601 "Fernanda Lopez Martinez" 78 44 60 85 79 33 80 62 40
+202207896 "Valentina Martinez Lopez" 82 78 68 66 69 85 62 72 76 73
+202265246 "Carlos Gonzalez Hernandez" 90 68 73 75 67 85 68
+202236381 "Diego Ramirez Sanchez" 70 69 75 69 69 72 70
+202272157 "Pablo Romero Hernandez" 69 72 65 59 64 68 74 59
+202281336 "Isabel Castillo Lopez" 63 46 66 60 70 55 64 51 53 47
+202259095 "Carlos Garcia Perez" 70 74 75 71 68 71 61 48 72 64
+202291875 "Sofia Garcia Lopez" 67 52 48 43 69 67
+202242835 "Maria Martinez Gonzalez" 62 56 81 76 60 68
+202238574 "Sofia Torres Ramirez" 86 86 77 79 81 96 74 61 79
+202244012 "Isabel Romero Sanchez" 77 80 58 63 86 87 59 62 80
+202206359 "Carlos Gonzalez Romero" 83 81 78 61 74 83 79 71 76
+202202225 "Gabriel Hernandez Perez" 73 82 59 72 64 68 50 72 78
+202243528 "Pablo Mendoza Garcia" 57 82 84 86 50 84
+202234067 "Pablo Lopez Garcia" 63 64 71 73 51 59 48 68 61
+202244389 "Lucia Rivera Castillo" 79 82 70 95 66 64 91 91 93 85
+202286518 "Valentina Garcia Torres" 73 77 79 73 75 92 76 95
+202296612 "Valentina Castillo Castillo" 76 63 89 77 83 76 48 71 59 64
+202295599 "Nicolas Mendoza Torres" 56 71 58 62 67 73 51 63
+202243868 "Valentina Flores Hernandez" 67 68 84 82 65 66 80 82
+202249138 "Nicolas Romero Alvarez" 94 95 83 95 67
+202293971 "Gabriel Martinez Garcia" 71 84 66 57 78
+202253447 "Sofia Ramirez Garcia" 44 44 50 67 64 63 58 69 66 49
+202286482 "Raul Torres Romero" 65 53 69 58 52 58 71 62 70 58
+202217138 "Diego Romero Ramirez" 46 45 63 47 65 65 61 47 71
+202293949 "Pablo Torres Mendoza" 75 68 68 80 66 61
+202247151 "Carlos Ramirez Rivera" 65 63 63 70 62 69 70 69 71 62
+202289480 "Valentina Mendoza Perez" 62 64 33 37 40
+202216391 "Gabriel Romero Castillo" 85 77 72 69 75 89 85 95
+202294462 "Nicolas Ramirez Sanchez" 87 79 85 71 75 76
+202202648 "Isabel Sanchez Flores" 62 62 70 58 51 90
+202277939 "Carlos Hernandez Perez" 66 69 82 69 84 82
+202271861 "Maria Hernandez Alvarez" 68 66 70 74 68 66 76
+202209447 "Raul Sanchez Sanchez" 58 67 72 77 57 57 58 71 85 86
+202229365 "Raul Romero Gonzalez" 70 57 59 59 71 82 67
+202213966 "Nicolas Hernandez Garcia" 67 60 56 52 54 73 69 55 63 78
+202215448 "Valentina Ramirez Hernandez" 69 61 68 88 60 82 69 91 62 69
+202221739 "Alejandro Sanchez Martinez" 67 65 74 67 74
+202294229 "Carlos Lopez Rivera" 73 74 81 78 68 81
+202259796 "Gabriel Romero Perez" 54 51 63 51 48 58
+202256639 "Gabriel Perez Castillo" 57 43 55 65 79 63 62 80
+202231517 "Javier Gonzalez Castillo" 56 68 80 72 56 58 79 82 82
+202298478 "Diego Perez Perez" 54 53 59 68 44 63 58 51
+202281600 "Lucia Garcia Romero" 69 79 70 74 70 70 67 78 80 76
+202233977 "Fernanda Mendoza Mendoza" 71 54 45 67 71 56 58 42
+202214643 "Alejandro Hernandez Martinez" 49 58 64 80 43
+202298433 "Valentina Garcia Flores" 90 90 66 86 85 75 60
+202287006 "Raul Gonzalez Martinez" 86 76 65 89 73 58 62 55
+202268418 "Isabel Perez Sanchez" 80 64 81 71 64 66 79 55
+202242966 "Javier Gonzalez Perez" 42 76 32 34 76
+202219302 "Isabel Torres Torres" 84 73 73 75 88 79 58 71
+202275563 "Nicolas Sanchez Romero" 72 46 68 63 63 73 59
+202265344 "Sofia Sanchez Perez" 72 74 61 57 76 64 86
+202265887 "Nicolas Castillo Perez" 41 62 85 40 86
+202204434 "Diego Gonzalez Gonzalez" 39 50 47 41 73
+202257211 "Maria Sanchez Gonzalez" 62 61 59 69 46 46 50
+202264712 "Diego Lopez Sanchez" 40 40 71 41 70
+202226400 "Sofia Ramirez Flores" 53 83 97 46 76 89 50
+202210053 "Pablo Perez Garcia" 92 87 83 96 64 79 80 85 67 67
+202238585 "Lucia Torres Sanchez" 54 62 54 50 53
+202260392 "Alejandro Rivera Perez" 81 57 68 72 80
+202278528 "Lucia Mendoza Sanchez" 58 77 79 57 87 68 59 55
+202218994 "Fernanda Mendoza Perez" 63 44 40 69 77 66 65 36 36
+202207145 "Diego Alvarez Lopez" 58 76 64 74 51 70 69
+202228298 "Valentina Rivera Gonzalez" 71 69 62 64 67 74 60 67 65 74
+202263924 "Diego Hernandez Castillo" 85 56 82 71 70 89 61 78 61 62
+202252411 "Valentina Sanchez Martinez" 77 48 62 66 40 75 50 67 66 56
+202232020 "Fernanda Mendoza Alvarez" 68 67 76 76 73 71 62 74 59
+202201051 "Isabel Mendoza Romero" 92 83 79 78 80 86 90 95 86
+202226746 "Javier Lopez Gonzalez" 68 65 65 62 69
+202230872 "Raul Sanchez Flores" 66 46 61 65 67 45 65 54
+202216996 "Fernanda Hernandez Mendoza" 61 78 80 93 67 94 81
+202210121 "Carlos Castillo Lopez" 71 62 83 80 66
+202232688 "Fernanda Gonzalez Garcia" 52 46 47 61 70 65
+202234682 "Elena Alvarez Mendoza" 61 69 65 66 78
+202228808 "Raul Perez Hernandez" 79 75 72 67 58 74 75 79 65 60
+202208503 "Pablo Flores Gonzalez" 45 91 65 35 57 43 98 93
+202234697 "Fernanda Martinez Garcia" 92 92 86 82 91 93 77 65
+202203866 "Raul Romero Garcia" 58 56 53 37 69 38 68
+202276488 "Sofia Sanchez Flores" 82 84 81 83 80 79 68
+202235052 "Diego Lopez Castillo" 83 72 54 80 55 59 80
+202282008 "Raul Alvarez Gonzalez" 86 53 84 75 60 92 42
+202250819 "Diego Gonzalez Rivera" 48 70 71 65 41 45 65 55 46 41
+202224369 "Lucia Rivera Rivera" 41 41 63 71 69 49 54 64
+202278297 "Carlos Ramirez Alvarez" 77 86 99 69 50 90 58 54 45 66
+202297293 "Lucia Castillo Castillo" 36 64 47 52 67 93 36 51 74
+202200664 "Valentina Garcia Hernandez" 43 86 47 73 76 42 32 38
+202299409 "Nicolas Sanchez Garcia" 73 87 72 71 67 92 92
+202219489 "Maria Flores Hernandez" 72 84 76 82 69 69 91 59 94 66
+202207190 "Pablo Romero Torres" 78 54 63 67 66 78 64
+202240034 "Carlos Gonzalez Garcia" 61 65 51 54 84 66 50 56 75
+202202598 "Valentina Castillo Romero" 71 70 72 71 69 72
+202244725 "Fernanda Garcia Rivera" 47 72 61 51 60 48 50 72 71 50
+202237825 "Alejandro Flores Hernandez" 80 93 51 53 77 52
+202291072 "Alejandro Martinez Castillo" 57 57 56 49 41 42 50 50 60 68
+202240469 "Pablo Romero Alvarez" 61 61 50 53 64
+202284285 "Nicolas Perez Alvarez" 60 85 64 77 61 79 66 83
+202280956 "Nicolas Flores Lopez" 70 75 71 69 70 71 71 74
+202230640 "Diego Sanchez Mendoza" 63 54 65 50 51 60 54 71 85 63
+202214573 "Raul Sanchez Perez" 83 47 84 50 81 73 84 86 65 50
+202255321 "Alejandro Lopez Gonzalez" 82 31 40 49 33
+202264762 "Carlos Sanchez Castillo" 80 78 80 66 66 79 70 76
+202271883 "Carlos Hernandez Garcia" 72 69 69 70 71 71 72 71 70 71
+202295451 "Javier Martinez Perez" 74 75 64 76 61 48
+202225890 "Pablo Rivera Ramirez" 40 57 40 60 69 74 42 54 49
+202202387 "Javier Torres Garcia" 62 53 69 43 59 76
+202297029 "Maria Mendoza Romero" 80 68 82 66 63 78 60 53
+202249837 "Nicolas Flores Martinez" 76 43 78 54 62 66 64 67
+202278081 "Isabel Martinez Romero" 69 87 94 81 78 75 67 64
+202255414 "Raul Ramirez Sanchez" 84 82 78 92 87 79 90 83 53 51
+202243150 "Elena Perez Martinez" 46 68 67 54 58 64 63 48
+202225583 "Sofia Torres Gonzalez" 63 58 55 72 63 67 59
+202235060 "Fernanda Perez Romero" 52 69 55 57 66 50 70 90 61 56
+202295858 "Carlos Alvarez Flores" 73 65 75 74 76 68 77 70 71 68
+202284347 "Sofia Mendoza Hernandez" 69 53 68 69 63
+202275079 "Raul Flores Perez" 58 83 49 47 60 84 60
+202288741 "Raul Mendoza Lopez" 50 63 60 82 65 56
+202223043 "Gabriel Perez Alvarez" 41 40 47 38 38 53 75
+202269344 "Isabel Rivera Hernandez" 52 79 53 49 42 61 57 70 56 68
+202225768 "Alejandro Castillo Romero" 98 66 55 66 95
+202234168 "Pablo Castillo Ramirez" 60 48 54 68 56 71 68
+202204642 "Raul Ramirez Castillo" 57 60 73 62 80 42 48 65 40
+202285043 "Valentina Rivera Rivera" 64 64 64 50 50 63
+202244421 "Alejandro Perez Lopez" 71 56 66 67 51
+202282737 "Gabriel Mendoza Mendoza" 64 77 68 79 72 75 70
+202240218 "Fernanda Romero Flores" 63 73 70 72 73 68 80 78 66
+202236514 "Alejandro Gonzalez Martinez" 70 78 64 78 67 76 78 80
+202262779 "Gabriel Castillo Flores" 67 89 71 56 64 54 55 55 72
+202213870 "Sofia Castillo Lopez" 71 72 54 55 54 62 68 82
+202207835 "Javier Gonzalez Rivera" 77 74 70 57 56
+202230295 "Javier Martinez Gonzalez" 58 42 66 89 50 64 67 43
+202275595 "Raul Ramirez Lopez" 63 62 49 63 62 58 74 51 53
+202245579 "Alejandro Ramirez Flores" 48 45 74 52 47 88 52 92
+202206256 "Sofia Garcia Alvarez" 62 35 62 38 77 89 72 86
+202281542 "Fernanda Hernandez Ramirez" 72 60 82 71 91 97
+202255280 "Alejandro Gonzalez Alvarez" 86 70 98 68 94 92
+202290457 "Carlos Castillo Alvarez" 60 67 71 70 64 70
+202246868 "Sofia Hernandez Hernandez" 79 90 89 75 69 99 75 87 98
+202249106 "Javier Alvarez Ramirez" 70 94 75 73 61
+202294955 "Elena Martinez Castillo" 70 68 56 70 72 47 69 51 66 70
+202249348 "Javier Alvarez Flores" 84 72 74 79 87 80 81 70
+202266507 "Alejandro Mendoza Torres" 77 94 43 57 62 76 55 76 85
+202294778 "Elena Castillo Mendoza" 80 78 65 84 62 62 62 91 59 79
+202217337 "Pablo Romero Mendoza" 59 73 61 62 69 61 70 71 74
+202217801 "Alejandro Mendoza Romero" 49 63 72 48 62
+202231207 "Sofia Perez Alvarez" 74 42 57 45 46 72
+202288579 "Fernanda Castillo Garcia" 68 62 67 65 54 64 57
+202229554 "Fernanda Flores Castillo" 67 77 70 70 70 76 70 70
+202265968 "Raul Lopez Flores" 74 44 69 66 72 72 72 53 44
+202229530 "Valentina Romero Gonzalez" 55 43 48 51 68 61 67 47 70 58
+202239051 "Carlos Torres Garcia" 57 62 55 59 45 47 58 66
+202262560 "Valentina Mendoza Torres" 72 76 89 65 76 90 85 67
+202268018 "Lucia Lopez Romero" 43 77 51 54 64 88
+202227025 "Maria Romero Lopez" 62 51 73 57 50 44 58
+202231555 "Javier Castillo Martinez" 80 72 70 71 43
+202202821 "Maria Lopez Sanchez" 51 69 68 55 54 68 65 57 55 47
+202269008 "Sofia Garcia Romero" 72 70 81 77 74 71 74 73 86
+202298677 "Isabel Perez Ramirez" 61 85 58 72 81 77
+202258052 "Valentina Rivera Flores" 80 55 78 79 59 58 66 57 54 64
+202269461 "Raul Hernandez Lopez" 70 48 57 46 65 64 59 64
+202243946 "Valentina Garcia Garcia" 64 59 75 72 52 56
+202276213 "Diego Torres Castillo" 73 55 75 56 59 78
+202285665 "Valentina Romero Mendoza" 76 61 79 81 75 68 86 87 58 58
+202201130 "Fernanda Rivera Hernandez" 67 56 85 84 54 65
+202244547 "Lucia Gonzalez Lopez" 63 84 97 84 77
+202207445 "Pablo Lopez Alvarez" 48 47 50 71 40 48 44
+202200954 "Gabriel Torres Mendoza" 50 81 81 73 63
+202203858 "Gabriel Garcia Sanchez" 64 65 67 58 59 58
+202212267 "Javier Romero Lopez" 68 70 60 61 66 70 67 68 62
+202289562 "Diego Alvarez Ramirez" 76 72 76 66 74 69 63 71 75 76
+202231724 "Isabel Flores Castillo" 72 65 69 63 70 71 72
+202208169 "Maria Perez Garcia" 71 79 69 69 75 59
+202233289 "Valentina Alvarez Romero" 73 78 58 71 69 52 59 68
+202203465 "Pablo Martinez Sanchez" 51 60 65 56 85 64 66 66 68 89
+202299213 "Carlos Romero Lopez" 48 51 62 50 67 54 77
+202225297 "Elena Lopez Torres" 90 94 76 77 56 75 82 55 71
+202272379 "Javier Perez Garcia" 44 71 40 47 46 61 70 54 49
+202222806 "Isabel Alvarez Alvarez" 44 74 69 48 77 78 44 63 79
+202216927 "Raul Hernandez Flores" 98 94 96 92 98 72 72
+202234177 "Sofia Perez Mendoza" 90 70 69 62 69 92 75 85 68
+202281247 "Gabriel Perez Martinez" 93 69 67 87 62 94 56 84 71
+202208341 "Elena Sanchez Mendoza" 98 38 58 97 57 41
+202249636 "Isabel Garcia Mendoza" 70 72 73 73 70 72 73
+202283339 "Nicolas Lopez Ramirez" 60 87 50 91 91 83 54 72 56
+202233721 "Lucia Lopez Mendoza" 73 55 60 47 78 75 61
+202261412 "Sofia Perez Flores" 74 59 56 70 68 48 56 57
+202203527 "Elena Alvarez Martinez" 62 60 68 69 68
+202279610 "Pablo Alvarez Gonzalez" 77 48 44 44 56 85 68 87
+202299262 "Lucia Gonzalez Alvarez" 81 74 49 69 46 79
+202232550 "Javier Rivera Garcia" 71 62 68 52 52 53 70 54 68
+202222271 "Maria Alvarez Castillo" 60 66 85 61 68 64 86 82 60
+202268111 "Diego Ramirez Martinez" 84 71 74 67 85 75 73 63 72
+202213631 "Gabriel Mendoza Flores" 54 56 51 53 64 52 72 62 75 73
+202222557 "Valentina Lopez Perez" 91 57 40 55 91 53 47
+202202483 "Diego Alvarez Alvarez" 61 45 79 76 42 62 57 58 54 58
+202275059 "Nicolas Flores Gonzalez" 81 69 77 73 75 71 86 78 68
+202293688 "Valentina Garcia Lopez" 56 40 66 65 85 63 81 72 97
+202284711 "Sofia Perez Sanchez" 73 76 84 67 81 88 74
+202261617 "Maria Perez Flores" 79 85 75 75 71 93
+202221648 "Carlos Mendoza Rivera" 72 69 78 41 64 76 66 71 54 48
+202206293 "Raul Martinez Sanchez" 78 52 46 69 81 65 69
+202257925 "Alejandro Torres Mendoza" 71 81 67 76 80
+202238193 "Diego Ramirez Alvarez" 63 58 62 46 47 49 62 61 58 68
+202232111 "Gabriel Sanchez Romero" 55 87 66 73 70 60 58 81 62 45
+202202673 "Diego Garcia Martinez" 54 58 60 54 64 72
+202247777 "Maria Romero Gonzalez" 49 45 47 70 43 53 65 47
+202224514 "Diego Lopez Flores" 84 62 59 63 81 81
+202238539 "Diego Gonzalez Mendoza" 64 65 68 65 69 68 64 68 69
+202256424 "Lucia Sanchez Garcia" 52 50 53 43 43 54 45 71
+202203292 "Gabriel Flores Hernandez" 75 77 78 84 80
+202209648 "Fernanda Martinez Sanchez" 59 61 51 47 45 65 63 53 70 75
+202210103 "Pablo Perez Flores" 54 66 60 57 68 64 79 63
+202298967 "Maria Mendoza Garcia" 93 87 62 90 58 63 37 74 73 75
+202246370 "Valentina Perez Rivera" 62 67 66 70 48 55 59 68
+202208407 "Javier Garcia Rivera" 73 72 68 68 66 63 66 63 71
+202258260 "Maria Flores Mendoza" 62 68 58 71 65
+202273621 "Isabel Rivera Sanchez" 91 57 78 86 78 68
+202218666 "Nicolas Flores Castillo" 54 89 61 88 62 82
+202295125 "Nicolas Ramirez Flores" 78 91 70 79 87 78 83 82 84 89
+202252857 "Fernanda Garcia Mendoza" 72 69 73 66 67 71
+202287836 "Lucia Mendoza Martinez" 58 66 58 73 54 66 60 70 62
+202217808 "Gabriel Rivera Garcia" 65 48 49 73 51 73
+202219974 "Pablo Hernandez Hernandez" 60 79 63 59 68 85 61 86
+202205825 "Isabel Lopez Hernandez" 82 69 82 73 65 84 80 69 75 75
+202227528 "Elena Ramirez Torres" 64 67 68 60 72 66 63
+202273349 "Fernanda Torres Alvarez" 70 90 89 73 71 93 75 76 67 88
+202234778 "Raul Flores Ramirez" 72 64 56 65 69 58 66 67 56
+202271129 "Nicolas Mendoza Flores" 80 61 52 90 67
+202278015 "Javier Castillo Sanchez" 45 87 75 50 82 40 85 51 59 86
+202276548 "Lucia Ramirez Hernandez" 69 72 72 74 68 68
+202286049 "Fernanda Hernandez Lopez" 65 63 73 71 67 65
+202224210 "Elena Lopez Lopez" 56 82 49 45 89 55 38 89 45 68
+202294263 "Sofia Lopez Ramirez" 60 83 93 61 55
+202270583 "Maria Flores Flores" 64 40 35 31 69
+202210736 "Isabel Lopez Alvarez" 82 81 70 77 75 80 82 71 81
+202293390 "Lucia Perez Sanchez" 88 37 86 70 68 63 81 45 51 82
+202240677 "Raul Lopez Sanchez" 68 65 71 71 64 72 71 64
+202214154 "Javier Garcia Gonzalez" 95 56 51 50 76
+202241485 "Isabel Rivera Gonzalez" 47 46 36 71 67 54 68
+202227190 "Gabriel Lopez Ramirez" 70 69 70 70 67 70 69 67
+202215144 "Lucia Garcia Ramirez" 72 46 47 51 49 62 55 59 60 66
+202274021 "Isabel Garcia Perez" 48 51 73 62 68 60 53 72
+202228266 "Elena Martinez Rivera" 75 72 68 71 75
+202232181 "Gabriel Gonzalez Mendoza" 93 61 90 66 83 88
+202243340 "Diego Romero Rivera" 71 67 72 70 77 72 67 65 72 68
+202220335 "Maria Castillo Hernandez" 76 63 72 56 77 67
+202253027 "Gabriel Rivera Romero" 59 56 43 47 46 54 51 71 49 60
+202264305 "Isabel Flores Martinez" 77 51 50 83 73 50 31 34 65 46
+202277336 "Diego Garcia Flores" 67 80 64 80 79
+202226835 "Maria Ramirez Mendoza" 56 98 53 81 82 77
+202204051 "Raul Castillo Romero" 85 89 84 72 74 62
+202252564 "Valentina Sanchez Castillo" 60 53 36 92 65 60 52 93
+202298617 "Pablo Perez Ramirez" 85 80 71 74 70 81 89 80 77 85
+202217319 "Alejandro Sanchez Flores" 89 48 87 72 86 49
+202289140 "Elena Perez Torres" 35 61 53 52 44 43 44
+202284788 "Lucia Ramirez Rivera" 69 47 58 65 86 76 72 60 75 58
+202217493 "Sofia Castillo Gonzalez" 88 64 67 85 64
+202213386 "Javier Gonzalez Sanchez" 89 68 95 89 81 94 100 74 63 72
+202203456 "Gabriel Ramirez Martinez" 51 54 62 41 50
+202207829 "Carlos Rivera Perez" 81 64 63 53 69 55
+202204618 "Nicolas Alvarez Martinez" 78 55 64 61 55 57 78 64
+202291717 "Javier Gonzalez Gonzalez" 74 61 60 65 64 86 86 81
+202258931 "Maria Gonzalez Rivera" 62 44 65 42 68 36 74 55 57 83
+202258497 "Nicolas Martinez Torres" 56 44 47 47 76 69 37 46
+202298107 "Sofia Martinez Garcia" 84 79 84 76 73 87 87 74
+202286517 "Alejandro Castillo Lopez" 58 33 60 69 50 79 73
+202267461 "Raul Mendoza Ramirez" 78 58 51 57 70 49 76
+202229289 "Gabriel Castillo Castillo" 51 38 52 55 37 33 55 59 54 70
+202247120 "Maria Flores Romero" 84 52 73 42 80 37 48 70 81
+202290013 "Lucia Torres Lopez" 68 72 63 58 67
+202232515 "Elena Perez Hernandez" 59 58 65 67 60 56 60 65 41 37
+202210714 "Elena Ramirez Ramirez" 44 59 54 49 58 52 68 65 68
+202283826 "Gabriel Rivera Hernandez" 46 50 45 66 91 59 41 64 70
+202262877 "Lucia Hernandez Hernandez" 66 56 57 45 53 65 36 40 56 51
+202248474 "Nicolas Lopez Martinez" 86 76 83 59 63 48
+202236769 "Lucia Castillo Hernandez" 63 63 71 68 68 71 76
+202213214 "Alejandro Torres Hernandez" 37 95 67 97 74 85 61
+202294227 "Raul Rivera Mendoza" 56 72 57 62 73 65 50 51 56 53
+202292618 "Nicolas Perez Flores" 83 73 84 87 78 89 91
+202244266 "Lucia Flores Hernandez" 71 65 71 65 93 64 77
+202298976 "Gabriel Romero Flores" 58 74 72 75 43 50 51 52
+202202895 "Diego Ramirez Torres" 68 79 89 80 88 75 61
+202249413 "Raul Lopez Garcia" 63 78 68 72 69 81 68 63 72 78
+202278946 "Pablo Martinez Castillo" 76 78 90 80 71 81 89
+202210829 "Maria Flores Gonzalez" 54 50 60 66 57
+202295010 "Alejandro Martinez Hernandez" 68 69 90 86 72 69 74 86
+202293275 "Fernanda Rivera Martinez" 67 71 72 72 74 72 67 66 73 63
+202297959 "Pablo Sanchez Rivera" 75 84 72 56 69 80 65 74
+202236457 "Sofia Torres Alvarez" 88 59 85 86 56 50 72
+202232409 "Valentina Sanchez Mendoza" 74 84 72 71 92 92 71 92 69 95
+202284666 "Diego Castillo Alvarez" 41 78 76 61 57 61 54
+202252679 "Nicolas Ramirez Torres" 86 74 79 83 80 76 65 71 90
+202235280 "Pablo Garcia Alvarez" 75 75 60 55 73 63
+202243220 "Pablo Rivera Torres" 90 84 85 91 70
+202239349 "Fernanda Gonzalez Perez" 39 74 42 52 78 64 63
+202224051 "Fernanda Garcia Lopez" 80 53 43 92 63 54 97
+202200111 "Maria Lopez Alvarez" 59 62 82 52 72 59 52 75
+202215640 "Valentina Alvarez Flores" 62 76 69 69 79 60
+202225452 "Nicolas Martinez Gonzalez" 39 38 61 40 43 77 56
+202298100 "Elena Rivera Romero" 57 57 44 47 53 58 33 37 67 37
+202246280 "Lucia Mendoza Rivera" 80 80 81 86 80 81 83
+202289454 "Diego Mendoza Sanchez" 68 77 54 76 69 54 69
+202242980 "Fernanda Torres Ramirez" 77 67 45 70 57
+202278085 "Carlos Mendoza Torres" 70 70 70 70 70 70 70 70 70
+202212500 "Raul Castillo Mendoza" 57 68 64 60 58 60 61 53
+202286190 "Carlos Mendoza Garcia" 95 77 98 91 90 59 70
+202280554 "Lucia Romero Flores" 58 84 74 57 77
+202268647 "Alejandro Lopez Sanchez" 61 78 74 50 49 49 50 58 43
+202291549 "Sofia Garcia Perez" 82 60 69 91 70
+202244704 "Alejandro Alvarez Gonzalez" 56 57 57 59 65 73 68
+202273765 "Isabel Perez Gonzalez" 61 43 78 60 72 60 47
+202275193 "Nicolas Garcia Flores" 71 82 83 92 83 86
+202215807 "Lucia Hernandez Torres" 72 69 64 67 67
+202229845 "Alejandro Lopez Torres" 67 69 68 69 69 66 64 68 69
+202208384 "Raul Flores Garcia" 38 37 53 85 87 39 43 76
+202273659 "Gabriel Alvarez Martinez" 78 95 98 95 96 89 78
+202214826 "Nicolas Sanchez Flores" 74 62 65 67 67
+202297722 "Carlos Castillo Garcia" 59 84 45 70 57 55 92 56 75 71
+202288504 "Maria Castillo Gonzalez" 54 50 60 66 58 69 46
+202294417 "Gabriel Alvarez Gonzalez" 77 88 85 92 61 60 84 66 70
+202215061 "Alejandro Hernandez Romero" 69 57 94 56 62 85
+202288221 "Nicolas Garcia Lopez" 63 81 68 91 82
+202215425 "Fernanda Garcia Romero" 81 87 84 77 86 87 77
+202292845 "Lucia Romero Gonzalez" 69 55 71 47 66 46 60
+202231828 "Carlos Rivera Torres" 42 74 88 43 43 53 70 47 68 85
+202203725 "Pablo Torres Romero" 88 78 77 63 67 92 62 86 93 85
+202207105 "Fernanda Castillo Flores" 64 71 66 69 68 69 72 77 80 65
+202262740 "Sofia Romero Mendoza" 71 79 86 85 83 79 80 78
+202235233 "Pablo Ramirez Flores" 79 75 73 88 75 72
+202276668 "Maria Perez Romero" 68 60 74 56 91
+202243352 "Pablo Romero Flores" 66 81 80 83 70 73 75 74 77 72
+202290936 "Valentina Lopez Rivera" 75 75 72 73 68 74 78
+202244003 "Lucia Garcia Flores" 84 95 77 38 52 60 64 88 86
+202280656 "Nicolas Castillo Ramirez" 84 52 59 51 62 64 70 47 73
+202226780 "Valentina Flores Torres" 72 60 77 61 59 58 92 63 64
+202206211 "Pablo Gonzalez Perez" 74 71 81 81 84
+202256036 "Lucia Sanchez Alvarez" 66 63 69 63 75
+202265821 "Alejandro Romero Ramirez" 46 54 39 67 47 40
+202269060 "Raul Torres Hernandez" 90 80 79 55 91
+202265627 "Nicolas Sanchez Alvarez" 72 78 67 77 60 64
+202250820 "Fernanda Garcia Martinez" 72 61 72 70 71 58 74
+202276636 "Diego Torres Alvarez" 89 77 89 84 73
+202202185 "Raul Alvarez Garcia" 63 68 72 82 60 71 67
+202231060 "Elena Rivera Sanchez" 68 54 81 74 68
+202226944 "Isabel Alvarez Garcia" 68 75 75 75 71 69 66 67
+202216134 "Diego Flores Gonzalez" 63 68 69 65 66 67 79 65 62
+202202956 "Javier Hernandez Lopez" 65 79 62 79 71 76 86 62 67
+202220208 "Isabel Torres Sanchez" 78 68 73 79 77 81 64 89 67 68
+202268225 "Isabel Hernandez Alvarez" 80 74 77 78 64
+202224263 "Pablo Hernandez Sanchez" 94 55 70 93 83 82
+202256328 "Javier Gonzalez Alvarez" 71 92 96 95 89 75
+202240823 "Fernanda Mendoza Lopez" 98 91 48 47 49 83
+202262456 "Elena Garcia Martinez" 40 89 87 93 51 89
+202204366 "Sofia Lopez Sanchez" 72 69 53 50 64 55 54 51
+202221286 "Javier Ramirez Mendoza" 55 54 56 62 62
+202271462 "Diego Ramirez Flores" 61 63 61 61 69 55
+202220069 "Maria Flores Rivera" 83 76 31 45 64 61 65 74 79
+202263419 "Nicolas Romero Ramirez" 60 70 37 50 36 47
+202294021 "Javier Alvarez Hernandez" 88 51 74 62 45 40 44
+202224479 "Valentina Ramirez Sanchez" 52 80 76 61 75 73
+202285806 "Diego Mendoza Castillo" 61 67 55 41 46 62 47 52 49 56
+202211321 "Alejandro Sanchez Alvarez" 88 61 76 38 66 59 73 47 47 56
+202243732 "Nicolas Martinez Martinez" 63 66 59 72 56 68 55 64 60
+202256392 "Isabel Sanchez Hernandez" 62 68 60 60 59 51 72 60
+202208208 "Lucia Gonzalez Romero" 81 65 72 64 74 58 82 71
+202205948 "Lucia Ramirez Perez" 80 85 82 77 83 68 80
+202257915 "Lucia Rivera Romero" 71 51 71 59 50 62 54
+202289748 "Alejandro Rivera Alvarez" 71 64 62 60 58 59 61
+202238056 "Valentina Martinez Romero" 67 65 71 63 65 61 62 71 75 72
+202230491 "Valentina Martinez Martinez" 95 87 81 89 75 74 38 45
+202257379 "Elena Gonzalez Perez" 75 71 69 80 81 70
+202269693 "Diego Garcia Romero" 97 71 87 49 53 39 92 70 52
+202224866 "Sofia Alvarez Martinez" 83 88 88 78 73 85
+202229149 "Lucia Lopez Ramirez" 52 82 42 34 99 47 50 80
+202235359 "Carlos Torres Lopez" 60 75 62 56 59 66
+202222364 "Nicolas Alvarez Hernandez" 63 40 50 50 38 77 62 73 61 66
+202209222 "Fernanda Sanchez Ramirez" 75 79 85 52 95
+202274530 "Isabel Hernandez Ramirez" 76 43 49 48 60 52 83
+202228653 "Lucia Gonzalez Rivera" 85 38 60 62 36 51
+202233984 "Lucia Castillo Ramirez" 75 82 81 79 82 86 90 92
+202207615 "Javier Mendoza Mendoza" 71 73 49 81 73 64
+202250535 "Diego Alvarez Sanchez" 81 83 61 63 91
+202286173 "Fernanda Hernandez Sanchez" 88 77 68 56 77 58 78 85 68
+202296208 "Fernanda Rivera Torres" 66 70 83 68 66 69 82
+202210027 "Diego Rivera Rivera" 68 55 44 73 39 65 58 60 71 74
+202262696 "Lucia Perez Mendoza" 67 63 68 70 42 53 70 48 56 59
+202289078 "Elena Mendoza Ramirez" 74 60 64 66 83 83
+202273863 "Fernanda Mendoza Sanchez" 59 63 61 75 65 60 82 62 64
+202281508 "Carlos Alvarez Sanchez" 78 71 75 75 81 76 68 71 81 74
+202234220 "Pablo Castillo Romero" 78 75 85 68 83 75
+202219429 "Raul Alvarez Romero" 58 84 81 56 66 86 75 67 64 80
+202234460 "Nicolas Castillo Alvarez" 70 70 73 74 70 71 63 68 66
+202257402 "Valentina Sanchez Garcia" 71 57 42 57 43 55
+202283859 "Nicolas Garcia Garcia" 48 62 65 52 86 57
+202258853 "Carlos Alvarez Gonzalez" 43 60 82 45 44
+202256511 "Fernanda Castillo Rivera" 67 76 61 64 67
+202200182 "Pablo Martinez Mendoza" 72 69 71 72 57 75
+202228376 "Gabriel Alvarez Castillo" 57 67 62 56 54 50
+202252302 "Gabriel Flores Gonzalez" 67 44 39 87 45 66 59 52 50
+202253685 "Sofia Ramirez Rivera" 82 70 75 82 62 75 78
+202206190 "Nicolas Lopez Alvarez" 65 84 57 67 56 85 64
+202267333 "Raul Perez Martinez" 60 44 51 40 61 57
+202297826 "Isabel Romero Alvarez" 65 81 63 75 54 55
+202255674 "Elena Lopez Flores" 77 87 57 42 86 56 70 45 63
+202200752 "Javier Sanchez Castillo" 63 64 62 70 66 63 61
+202267079 "Valentina Martinez Gonzalez" 87 75 54 80 84 81 84 92 61
+202211598 "Nicolas Mendoza Gonzalez" 42 66 53 58 69 68 62 52 50 39
+202229077 "Javier Rivera Sanchez" 63 74 72 61 74 63
+202267469 "Alejandro Alvarez Romero" 84 72 85 85 79 74 84 76
+202276955 "Valentina Alvarez Hernandez" 61 49 52 48 63
+202204903 "Carlos Mendoza Martinez" 57 35 47 64 50
+202237936 "Carlos Sanchez Sanchez" 84 73 89 83 47 79 51 54 72 49
+202264497 "Alejandro Rivera Garcia" 47 63 70 47 54 50 58 68 49
+202252780 "Fernanda Ramirez Castillo" 57 69 61 86 67 74 74 95 85
+202213415 "Javier Martinez Romero" 70 75 75 76 69
+202204490 "Elena Romero Mendoza" 70 70 44 49 49 53 68 48
+202200829 "Nicolas Mendoza Garcia" 73 87 87 79 76 74 96 85 85
+202219741 "Pablo Sanchez Martinez" 88 81 83 92 66 49 60 79 79
+202240810 "Raul Torres Flores" 78 77 81 65 63 75 78 52
+202299217 "Alejandro Gonzalez Rivera" 58 63 51 56 62 50 54 37
+202211267 "Gabriel Flores Ramirez" 59 37 54 74 80 55 59 37
+202242424 "Valentina Torres Garcia" 84 76 84 79 91 75 68 73 68
+202262414 "Fernanda Garcia Perez" 82 40 43 55 54 95 79
+202254256 "Carlos Gonzalez Torres" 66 77 74 52 49 51 38
+202214871 "Sofia Romero Rivera" 57 73 42 54 84
+202234391 "Isabel Romero Rivera" 57 84 72 77 56 82
+202203231 "Maria Lopez Martinez" 80 67 65 67 72 86 55
+202275918 "Lucia Ramirez Romero" 72 76 89 95 87 95 87 93 88
+202210735 "Elena Romero Ramirez" 69 77 60 50 54 60
+202200852 "Isabel Castillo Garcia" 40 65 76 47 32 61 72 46
+202230776 "Fernanda Flores Alvarez" 64 69 84 86 82 63 90 69 63
+202235515 "Fernanda Romero Garcia" 65 70 65 57 52 52 62 70 64 61
+202282689 "Carlos Lopez Mendoza" 47 76 50 55 49 73 66 53 65
+202250648 "Lucia Torres Romero" 51 66 78 78 70 52 74 54 69 58
+202230473 "Pablo Romero Perez" 50 60 62 73 50 66 51 58 63 58
+202248504 "Gabriel Alvarez Ramirez" 70 50 49 45 81 74
+202245241 "Carlos Alvarez Rivera" 66 71 53 62 50 83
+202287303 "Lucia Lopez Lopez" 61 52 64 75 71 74 51 66
+202231978 "Elena Romero Hernandez" 70 55 68 74 66 69
+202287841 "Javier Rivera Mendoza" 55 68 61 78 76
+202222493 "Nicolas Perez Sanchez" 64 63 51 54 56 79 40 71 46
+202282656 "Valentina Torres Romero" 68 80 56 45 39 68 48 49 58
+202217214 "Alejandro Gonzalez Mendoza" 75 74 71 76 72 74 72 73 71 76
+202299432 "Sofia Alvarez Gonzalez" 66 65 72 82 85 70 75
+202238190 "Raul Hernandez Sanchez" 58 79 81 69 72
+202272101 "Diego Perez Rivera" 67 53 67 84 72 57 81 78 54
+202262945 "Javier Martinez Mendoza" 86 93 93 51 81 52 86 77 62 76
+202260945 "Nicolas Garcia Sanchez" 97 82 76 74 72 78
+202266337 "Valentina Ramirez Castillo" 66 81 63 70 65 62 62
+202294858 "Fernanda Garcia Ramirez" 68 70 64 59 67
+202202070 "Nicolas Flores Mendoza" 86 65 87 61 55
+202274040 "Carlos Hernandez Castillo" 63 52 62 64 69 75 68 50 48 74
+202201451 "Lucia Garcia Gonzalez" 73 66 73 69 68 66 67
+202249554 "Nicolas Alvarez Flores" 59 89 63 72 52 46 56
+202265665 "Fernanda Mendoza Garcia" 56 85 78 41 39 73
+202281112 "Lucia Ramirez Flores" 79 46 56 54 78 49 47 63 53 80
+202240910 "Maria Perez Gonzalez" 78 48 59 87 42 60 54 51 92
+202223321 "Gabriel Sanchez Lopez" 65 70 61 70 66 71 63 65 64 65
+202231210 "Nicolas Romero Torres" 74 70 71 77 73 71 74
+202296571 "Fernanda Flores Ramirez" 73 77 84 73 75 73 84 75 84
+202261761 "Raul Ramirez Martinez" 74 64 69 93 82 82 95
+202237972 "Isabel Garcia Ramirez" 78 65 65 84 67 81 69 89
+202239414 "Carlos Rivera Martinez" 69 69 66 69 64 67 70 69 71
+202290173 "Javier Garcia Romero" 70 82 46 38 42 91 38 82 65 51
+202218248 "Carlos Rivera Ramirez" 73 85 92 88 71 72 92 79 78
+202256190 "Diego Martinez Alvarez" 91 96 65 70 66 67 73 70
+202201976 "Lucia Castillo Martinez" 84 37 48 55 76 62 60 91 57
+202222714 "Carlos Castillo Romero" 79 49 69 68 53 53 71
+202228739 "Diego Mendoza Lopez" 66 53 71 68 61 69
+202255901 "Raul Gonzalez Rivera" 60 60 74 58 76 58 77
+202285633 "Elena Martinez Hernandez" 77 76 75 65 64 73 81 85 72 68
+202201029 "Sofia Torres Lopez" 52 80 69 78 55 96 68 56
+202288041 "Fernanda Castillo Romero" 73 91 38 79 91 73 63 70 40 57
+202277559 "Fernanda Gonzalez Rivera" 73 49 61 56 47
+202237444 "Valentina Alvarez Ramirez" 35 60 60 59 59 79 49 70 40 60
+202295726 "Carlos Gonzalez Ramirez" 74 73 89 69 85 77 78 70
+202278701 "Lucia Garcia Mendoza" 72 74 98 86 65 74 68 61 72 92
+202275128 "Nicolas Castillo Castillo" 66 83 67 82 51 52 73
+202268363 "Elena Perez Garcia" 42 73 40 43 50 66 68
+202233356 "Diego Sanchez Rivera" 93 73 89 68 75 96 91 58 41
+202221100 "Fernanda Martinez Martinez" 35 57 51 44 56 60 44 52
+202207006 "Valentina Mendoza Sanchez" 72 76 74 72 74 71 69
+202295280 "Carlos Perez Sanchez" 76 50 65 73 64 54 83 39
+202225841 "Carlos Castillo Torres" 82 71 79 80 69 75 69 71
+202274701 "Lucia Lopez Sanchez" 65 80 74 63 65 60 74 60
+202219812 "Valentina Ramirez Lopez" 57 59 51 78 46 56 62
+202272035 "Valentina Martinez Ramirez" 57 39 79 54 70 51 46 81 65
+202247150 "Diego Torres Perez" 72 78 73 69 64 71 84 81 64 71
+202293909 "Carlos Alvarez Perez" 78 53 71 62 77 70
+202284471 "Valentina Garcia Sanchez" 79 75 68 67 76 74 77 79 66
+202258675 "Raul Sanchez Lopez" 56 43 67 56 61 72 36 68
+202283953 "Nicolas Torres Romero" 60 63 60 38 70 50 40
+202211149 "Valentina Lopez Romero" 72 73 70 71 75 73 74 68 73
+202232098 "Raul Sanchez Rivera" 78 72 79 74 78
+202241534 "Javier Perez Castillo" 77 79 80 75 80 71 78 61
+202257284 "Diego Mendoza Rivera" 69 73 58 51 44 71 51 64 65 74
+202259745 "Isabel Perez Martinez" 84 51 86 78 58 46 71 82 50 48
+202204623 "Gabriel Ramirez Alvarez" 84 50 66 56 92
+202221830 "Valentina Sanchez Romero" 35 45 77 50 67 61 50 54
+202265129 "Isabel Mendoza Torres" 49 56 57 72 52 48 58 60
+202216502 "Raul Rivera Torres" 50 52 64 66 60 70 49 43
+202273143 "Pablo Romero Garcia" 92 65 54 67 85
+202214707 "Elena Ramirez Hernandez" 87 86 71 48 77
+202257392 "Alejandro Perez Hernandez" 51 70 47 33 41 61 76 49 59 68
+202202424 "Lucia Martinez Martinez" 59 64 85 82 80 78 64 50
+202254279 "Carlos Perez Rivera" 84 100 73 58 83 49
+202292221 "Fernanda Sanchez Lopez" 82 85 89 78 65
+202254059 "Lucia Flores Romero" 61 74 90 46 45 71 79 48 53 79
+202241910 "Valentina Castillo Perez" 78 74 61 81 83
+202224101 "Javier Martinez Rivera" 61 51 45 36 75 45 43 42 75
+202229305 "Elena Rivera Flores" 47 83 38 47 59 68 40 83 82 36
+202213031 "Diego Sanchez Torres" 55 45 46 48 51 48 49 56 63 63
+202218781 "Gabriel Gonzalez Romero" 86 79 89 83 85
+202230480 "Gabriel Flores Rivera" 73 60 73 66 37 39 60 41 48 39
+202235560 "Nicolas Mendoza Hernandez" 49 41 75 71 73 63 50 40 45 69
+202274740 "Elena Mendoza Lopez" 65 56 47 47 39 63 99
+202234821 "Lucia Lopez Flores" 76 78 63 81 77 59 74 74
+202206601 "Sofia Gonzalez Garcia" 72 81 64 74 80 70 77 65 69
+202243836 "Maria Rivera Mendoza" 65 72 61 78 74 72 71 67 72
+202204744 "Sofia Sanchez Romero" 68 72 72 65 65
+202204720 "Gabriel Romero Martinez" 60 56 53 59 58 60 80 68 79 51
+202226458 "Pablo Hernandez Castillo" 68 71 60 58 74 59 62 59
+202284309 "Maria Gonzalez Ramirez" 52 76 51 74 63 56 38
+202249382 "Javier Rivera Torres" 56 47 93 67 94 62
+202277207 "Diego Castillo Rivera" 70 73 73 74 75 69
+202257353 "Fernanda Ramirez Ramirez" 82 84 79 79 70 82 81 70 83
+202284229 "Pablo Rivera Sanchez" 72 65 53 68 72 55 70 66 77 58
+202214162 "Pablo Castillo Alvarez" 64 77 78 82 68 75 86 81 86 70
+202246750 "Raul Romero Martinez" 86 75 82 88 86 75 79 87 84 86
+202276017 "Elena Rivera Lopez" 40 63 71 84 55 72 54 43
+202294456 "Fernanda Lopez Perez" 66 65 73 61 72 61
+202236039 "Isabel Torres Hernandez" 76 75 70 60 69
+202263334 "Elena Hernandez Torres" 78 89 70 67 66 86
+202206703 "Carlos Sanchez Torres" 49 60 71 56 48 58 70 76 72
+202202107 "Nicolas Torres Sanchez" 74 53 66 56 71 50 42 72 54 62
+202275711 "Fernanda Hernandez Rivera" 44 80 50 56 59 45 57
+202213103 "Valentina Romero Torres" 77 67 63 67 66 77 77 72
+202205060 "Diego Flores Alvarez" 39 57 41 58 43 68 50 31 42 64
+202213887 "Raul Lopez Hernandez" 83 79 73 66 78 69
+202280776 "Alejandro Sanchez Ramirez" 70 51 73 62 68 68 78 55 71
+202264686 "Sofia Rivera Torres" 42 41 47 76 56 48 81 67 51
+202231460 "Maria Perez Torres" 79 69 67 79 76 72 67 73 69 73
+202269977 "Javier Garcia Castillo" 56 65 46 47 57 52
+202273822 "Valentina Sanchez Gonzalez" 78 62 67 50 41 41 82 79
+202284798 "Raul Alvarez Hernandez" 66 58 58 73 57 73 61 68 78
+202205249 "Diego Hernandez Ramirez" 80 57 65 68 77 60 63 70 74 62
+202236495 "Maria Castillo Garcia" 61 82 89 85 71 74
+202204223 "Fernanda Perez Lopez" 75 74 82 83 76 91
+202267612 "Gabriel Garcia Perez" 72 49 71 47 65 61 62 52
+202273464 "Elena Romero Lopez" 73 90 77 79 91 60 56 85
+202269246 "Lucia Rivera Sanchez" 56 80 51 56 71 80 52 46
+202275229 "Javier Hernandez Ramirez" 66 62 90 65 89 66 64 69 51
+202288048 "Raul Martinez Torres" 90 87 42 79 84 75 65
+202284715 "Gabriel Gonzalez Martinez" 86 82 77 78 83 78 77 84 70 79
+202213885 "Carlos Sanchez Ramirez" 49 59 52 50 62
+202207206 "Sofia Flores Romero" 93 78 73 51 72 59 48 85 50
+202267967 "Javier Ramirez Lopez" 67 43 31 65 62 44 55 60 61 48
+202223452 "Gabriel Flores Perez" 70 57 62 64 59 76 72 66 62
+202260222 "Lucia Perez Hernandez" 68 69 68 70 72 68 68 69
+202209065 "Alejandro Lopez Alvarez" 56 90 92 68 75
+202232026 "Maria Hernandez Torres" 54 72 53 48 80 52 59
+202284795 "Carlos Perez Torres" 74 83 90 64 63 72 81 76
+202296830 "Sofia Garcia Sanchez" 66 67 75 74 61 62 64 70 67
+202245182 "Gabriel Ramirez Hernandez" 66 67 59 80 61 39
+202276226 "Raul Lopez Romero" 76 70 94 72 70 92 90 93 66
+202298189 "Elena Lopez Hernandez" 66 70 61 38 43
+202207226 "Diego Romero Castillo" 64 34 47 68 57
+202204949 "Pablo Mendoza Alvarez" 39 45 74 54 74 40 73 71 69 68
+202213957 "Elena Martinez Gonzalez" 64 39 52 41 65
+202258536 "Isabel Rivera Romero" 56 54 66 69 35 45 46 53
+202209838 "Maria Alvarez Ramirez" 87 95 38 41 79 58
+202208302 "Diego Lopez Gonzalez" 60 69 75 53 81 65 72
+202236235 "Javier Perez Gonzalez" 56 74 58 62 65 76 64 63
+202214809 "Nicolas Rivera Gonzalez" 62 71 60 59 55
+202296597 "Diego Garcia Sanchez" 79 68 72 77 75 74 77 74 68 78
+202278761 "Carlos Martinez Romero" 85 72 89 62 88 63 73 83
+202273663 "Sofia Lopez Martinez" 75 75 75 59 70
+202238556 "Sofia Castillo Alvarez" 78 58 73 67 75 66 72 76
+202284190 "Fernanda Sanchez Perez" 70 71 67 68 65 71 71 66
+202211098 "Valentina Flores Lopez" 42 57 88 61 85 84
+202212835 "Javier Ramirez Martinez" 57 74 73 79 79 70 83 81 50
+202250157 "Raul Ramirez Alvarez" 63 62 67 63 68
+202274604 "Maria Martinez Ramirez" 69 60 79 69 79 75 55 63 74 68
+202260367 "Pablo Alvarez Mendoza" 81 68 82 78 81
+202236534 "Javier Martinez Torres" 89 87 86 71 75 69 83
+202201747 "Sofia Lopez Alvarez" 57 61 58 48 41 70 69 57 58
+202237066 "Carlos Torres Alvarez" 87 87 58 84 46 60 85 42
+202254755 "Carlos Romero Castillo" 57 72 67 66 64 93 84
+202286312 "Valentina Castillo Martinez" 98 86 97 76 68
+202226225 "Valentina Hernandez Garcia" 69 76 59 65 58 59 85 82 84
+202256538 "Raul Rivera Rivera" 64 57 57 49 90 87
+202269968 "Carlos Martinez Flores" 51 51 59 66 74 81 67 73
+202269731 "Pablo Perez Hernandez" 79 73 77 52 83 55 63 58 51
+202296225 "Gabriel Mendoza Castillo" 33 44 60 66 71
+202243244 "Elena Garcia Alvarez" 78 77 60 68 65 55
+202257635 "Diego Sanchez Ramirez" 88 76 86 77 70 48 60 62
+202259777 "Diego Gonzalez Torres" 65 77 42 52 47 76 39 87 78 40
+202236573 "Diego Torres Martinez" 74 60 64 60 63 63 66 69
+202263023 "Carlos Mendoza Mendoza" 89 67 60 48 49 73 58
+202287519 "Alejandro Alvarez Sanchez" 38 67 86 73 81 61 38
+202293891 "Javier Lopez Lopez" 63 38 32 58 72 65 43 73 31
+202238602 "Valentina Sanchez Torres" 82 63 76 56 62 67
+202216112 "Isabel Torres Castillo" 66 57 58 69 63
+202234343 "Nicolas Perez Mendoza" 78 44 44 72 47 73 53
+202212555 "Elena Hernandez Ramirez" 46 40 36 89 86 79
+202202435 "Maria Ramirez Lopez" 41 47 60 61 47 71
+202265247 "Javier Lopez Martinez" 84 57 95 71 73
+202234943 "Pablo Torres Lopez" 89 56 73 62 49
+202268393 "Lucia Torres Martinez" 77 88 57 77 62 66 67 72 65
+202232351 "Javier Sanchez Romero" 75 65 71 74 58 67 67
+202225260 "Sofia Perez Torres" 91 63 79 81 74 71 81
+202212596 "Lucia Romero Lopez" 78 84 84 68 79
+202244004 "Gabriel Martinez Lopez" 80 85 90 73 91 84 72 65
+202202248 "Maria Perez Alvarez" 46 83 51 93 74 97
+202251963 "Nicolas Castillo Garcia" 84 83 70 75 74 72
+202264707 "Valentina Lopez Sanchez" 71 64 55 52 58 55 69 67 55 67
+202241177 "Javier Alvarez Castillo" 56 43 46 59 61 43 65 47
+202216572 "Diego Martinez Gonzalez" 61 78 66 61 75
+202281333 "Pablo Sanchez Ramirez" 73 70 50 59 70 66 55
+202286369 "Carlos Romero Gonzalez" 70 59 45 84 48 82 80 72 62 73
+202238305 "Javier Flores Torres" 91 80 97 69 88 94
+202261194 "Diego Mendoza Gonzalez" 64 63 63 71 70 71 74 71 69 69
+202254145 "Valentina Mendoza Martinez" 67 90 81 65 75 57 86 97 94 73
+202226165 "Maria Alvarez Lopez" 87 71 87 88 87 65 92 72 65 88
+202242761 "Fernanda Sanchez Castillo" 83 92 64 79 57 76 68 67
+202252361 "Maria Gonzalez Perez" 50 58 99 54 85
+202219836 "Sofia Torres Flores" 95 95 84 68 68
+202268889 "Valentina Perez Lopez" 73 66 59 57 78 67
+202208792 "Raul Romero Rivera" 68 49 38 38 56 38 65
+202243451 "Maria Mendoza Perez" 73 81 69 55 64 82
+202217867 "Maria Castillo Perez" 50 63 55 59 73 69 62 46
+202205231 "Pablo Garcia Mendoza" 54 70 55 64 72
+202224924 "Diego Alvarez Torres" 65 62 72 72 89 82 66 81
+202244818 "Carlos Flores Alvarez" 71 64 78 96 73 54 44 56
+202272282 "Nicolas Lopez Flores" 53 88 79 91 55
+202292933 "Alejandro Gonzalez Flores" 40 64 75 54 66 87
+202264218 "Sofia Garcia Martinez" 44 45 51 74 40 80 70 67 74 79
+202257315 "Alejandro Mendoza Alvarez" 66 68 72 72 67 67 65 65 67
+202297289 "Carlos Lopez Alvarez" 60 68 64 66 55
+202286913 "Gabriel Ramirez Ramirez" 69 68 77 77 77
+202282136 "Elena Lopez Rivera" 57 46 92 67 66
+202298649 "Nicolas Castillo Lopez" 64 70 87 58 68 76 84 59 80 59
+202207411 "Raul Alvarez Martinez" 84 71 70 60 62
+202221677 "Lucia Romero Rivera" 58 60 64 70 79 61 61
+202237904 "Lucia Flores Martinez" 50 54 53 67 75
+202221532 "Gabriel Sanchez Hernandez" 54 63 62 55 68 54 68
+202226858 "Carlos Lopez Perez" 76 66 71 80 65 66
+202202400 "Sofia Gonzalez Ramirez" 73 56 62 85 75 92 47 60 85
+202284717 "Carlos Perez Flores" 77 80 80 78 72 74 77
+202250630 "Maria Martinez Flores" 68 56 54 53 62
+202235488 "Carlos Alvarez Mendoza" 61 91 65 77 68
+202202525 "Maria Lopez Romero" 77 81 70 76 77 84 84
+202234901 "Lucia Sanchez Rivera" 71 78 68 65 74 76 68 78
+202279387 "Javier Torres Rivera" 68 64 66 69 69 69 72 68
+202280616 "Javier Alvarez Alvarez" 78 80 71 68 68 83 61 74 73
+202233851 "Diego Romero Romero" 63 38 46 79 70
+202272139 "Nicolas Romero Lopez" 75 76 75 61 62 75 80 71 68 78
+202280842 "Valentina Flores Garcia" 77 60 60 80 71 56 54
+202217651 "Gabriel Hernandez Mendoza" 67 55 68 52 48 61
+202217369 "Pablo Hernandez Garcia" 54 62 59 66 50 50 61
+202285584 "Valentina Torres Lopez" 84 89 88 70 76 75
+202220689 "Gabriel Flores Lopez" 76 68 65 66 63 74 73 77
+202225552 "Diego Rivera Castillo" 74 50 47 49 72 81 51
+202299335 "Diego Hernandez Mendoza" 73 80 72 68 64 68 73
+202290446 "Pablo Garcia Gonzalez" 48 57 88 58 52 82 88 80 63
+202223563 "Gabriel Lopez Alvarez" 56 59 67 67 65 68
+202200329 "Sofia Mendoza Mendoza" 91 97 70 98 84 100 91 81
+202243801 "Isabel Romero Gonzalez" 81 68 74 78 63 76 56
+202205851 "Carlos Martinez Martinez" 79 87 86 75 91 65 61
+202254079 "Elena Romero Alvarez" 58 70 79 60 56 63 87 61 68
+202250777 "Lucia Flores Ramirez" 69 67 69 70 74 73
+202210828 "Gabriel Sanchez Mendoza" 47 64 57 75 51 72 52 42
+202243419 "Valentina Gonzalez Gonzalez" 75 96 80 54 94 65 57 73 77 85
+202275419 "Diego Sanchez Perez" 42 39 40 96 37
+202266308 "Raul Torres Alvarez" 73 43 55 56 61 39 77 43
+202288004 "Raul Hernandez Castillo" 77 89 41 73 81 64 73 42 54 77
+202274853 "Fernanda Gonzalez Gonzalez" 75 77 89 74 54 83 78 69 83 70
+202240773 "Pablo Lopez Torres" 94 69 56 84 67 57 92 81
+202281959 "Valentina Torres Martinez" 50 57 42 79 42 36 35 49 78
+202277772 "Nicolas Torres Alvarez" 63 73 82 73 62 65 68 67
+202231706 "Sofia Lopez Castillo" 41 41 57 53 51 50 44 66 41 47
+202247509 "Gabriel Torres Torres" 91 52 44 75 41 76
+202206878 "Elena Hernandez Flores" 59 81 65 79 78 56 54 61 89
+202214682 "Raul Ramirez Ramirez" 56 83 88 87 50
+202249151 "Gabriel Mendoza Sanchez" 66 66 64 72 64 66 66 68 70
+202282626 "Javier Romero Flores" 66 55 52 56 69
+202223918 "Nicolas Mendoza Ramirez" 42 68 46 72 46
+202238241 "Pablo Mendoza Mendoza" 91 95 84 66 74 96 76
+202253914 "Sofia Romero Lopez" 68 83 74 65 70 78 68 74 70 90
+202255772 "Lucia Mendoza Hernandez" 88 59 80 85 59 51 70 59 42
+202294239 "Elena Martinez Sanchez" 69 69 68 73 72 73
+202258126 "Carlos Gonzalez Lopez" 66 65 67 68 69 66 68 70 70
+202280653 "Nicolas Ramirez Alvarez" 69 60 75 74 75 60
+202278880 "Pablo Perez Alvarez" 45 69 64 57 57 45
+202217325 "Fernanda Perez Mendoza" 62 58 56 44 73
+202291673 "Pablo Gonzalez Rivera" 65 64 67 64 67 70
+202281373 "Fernanda Romero Gonzalez" 49 51 76 82 50 66 57 75 67
+202247490 "Valentina Romero Martinez" 75 86 64 88 87 90 83 89 64 68
+202290059 "Diego Martinez Lopez" 54 54 49 59 78 57
+202270204 "Sofia Castillo Garcia" 53 61 69 76 64
+202260464 "Alejandro Lopez Ramirez" 61 70 52 55 51 50 70 68
+202215877 "Gabriel Flores Garcia" 61 56 82 55 86 66 65 63 84 90
+202291718 "Pablo Gonzalez Ramirez" 76 56 93 84 54 86 59 76 86 87
+202201213 "Gabriel Alvarez Garcia" 61 69 58 76 68 74 58 64 77 68
+202227473 "Raul Hernandez Romero" 71 73 55 53 44 48
+202214175 "Isabel Perez Rivera" 46 85 51 89 60 59 45 72 90 89
+202230790 "Gabriel Flores Torres" 77 74 82 87 88 68 92
+202237024 "Fernanda Garcia Sanchez" 73 74 73 84 74 64 71 69 64 70
+202201216 "Javier Martinez Sanchez" 85 76 62 77 64 59 71
+202297558 "Gabriel Perez Torres" 73 69 67 68 61 54 60
+202204459 "Sofia Martinez Gonzalez" 35 73 44 98 45 79 38
+202286245 "Gabriel Lopez Gonzalez" 64 64 58 67 56 56 69 52 58
+202225045 "Nicolas Alvarez Sanchez" 88 92 91 65 65 58 78 68 62
+202250954 "Nicolas Garcia Torres" 75 45 39 52 56 43 37 48 53
+202281620 "Diego Torres Ramirez" 55 78 87 61 84 81
+202286347 "Isabel Castillo Sanchez" 70 65 67 68 67 62 65 81 57
+202246839 "Carlos Rivera Gonzalez" 70 72 73 75 70 76 74 71
+202232867 "Isabel Mendoza Alvarez" 51 82 43 33 41 90
+202243882 "Raul Torres Lopez" 60 66 90 77 62 75
+202287517 "Carlos Torres Ramirez" 76 69 82 75 81 79 70 83 84 90
+202267823 "Raul Flores Romero" 65 51 38 47 67 94 53 42 42 71
+202289314 "Gabriel Garcia Ramirez" 49 50 56 53 89
+202218851 "Valentina Ramirez Gonzalez" 68 66 51 43 65
+202241693 "Isabel Mendoza Sanchez" 78 83 77 56 77 53
+202266865 "Fernanda Garcia Hernandez" 77 74 83 59 82 74 49 80 47
+202293298 "Diego Garcia Perez" 54 48 56 73 57 78 53
+202277452 "Sofia Mendoza Rivera" 83 68 81 82 90 80 81 73 78 70
+202210757 "Gabriel Castillo Perez" 85 51 43 65 60 76 61 62 82 85
+202285471 "Maria Gonzalez Garcia" 79 61 63 63 77 63
+202214565 "Lucia Romero Mendoza" 79 64 69 72 69 72 71 75 62 62
+202288643 "Lucia Martinez Hernandez" 39 55 47 49 49 54 49
+202209107 "Fernanda Perez Alvarez" 41 68 63 41 60 57 53
+202289132 "Pablo Flores Castillo" 66 76 76 61 69 73 75 62 74 73
+202270932 "Nicolas Mendoza Rivera" 87 57 71 86 56 86 74 66 80 85
+202259163 "Maria Sanchez Hernandez" 90 61 68 68 67
+202225192 "Carlos Castillo Ramirez" 80 86 72 93 86 85 85 89 89
+202246015 "Raul Castillo Sanchez" 89 86 76 65 47 94 85 66 91
+202275901 "Maria Sanchez Torres" 51 65 51 67 69 61 60 69
+202245608 "Gabriel Garcia Flores" 58 74 64 58 58 77
+202231451 "Isabel Torres Ramirez" 68 54 86 86 69 59 85
+202248898 "Alejandro Castillo Ramirez" 63 56 45 49 68 69 57 67 42 50
+202295317 "Valentina Perez Perez" 73 71 69 72 81 82
+202223791 "Isabel Lopez Romero" 69 96 85 76 85 62 82 90 77
+202223698 "Valentina Perez Garcia" 68 75 79 66 83 77 69 84
+202201681 "Sofia Perez Hernandez" 70 69 71 53 71
+202276657 "Alejandro Romero Rivera" 75 70 75 72 71 70 75
+202206225 "Sofia Lopez Flores" 70 73 74 91 52 60 61 53 74
+202277989 "Isabel Torres Perez" 74 63 72 72 75 71 79 60
+202267470 "Lucia Sanchez Perez" 96 75 69 89 75 86 88 68 85
+202231608 "Gabriel Perez Perez" 54 62 33 42 35 50 59
+202264288 "Carlos Perez Martinez" 72 65 68 68 70
+202281882 "Diego Torres Garcia" 66 57 85 79 71 65 57 69 78 61
+202263309 "Gabriel Rivera Flores" 73 81 40 82 43 43 73 54 69
+202240610 "Gabriel Garcia Alvarez" 54 55 64 52 53
+202281039 "Fernanda Gonzalez Alvarez" 71 44 56 80 73 59
+202262404 "Maria Hernandez Hernandez" 67 72 71 64 63 62 56
+202203663 "Gabriel Rivera Alvarez" 92 74 41 86 56 69
+202277401 "Carlos Flores Perez" 67 55 65 62 70 62 61
+202258201 "Carlos Flores Lopez" 81 82 77 71 82 70 73
+202254482 "Gabriel Castillo Mendoza" 47 80 83 86 50 60 85 90 53 85
+202238009 "Javier Perez Ramirez" 59 78 75 79 77 65 72 65
+202202178 "Pablo Rivera Garcia" 75 44 83 77 73 52 57 62 91
+202275963 "Isabel Flores Lopez" 63 63 79 65 74 64 78 63
+202278599 "Pablo Mendoza Sanchez" 77 69 79 80 77 92 78
+202255231 "Maria Lopez Lopez" 64 48 64 93 58
+202270633 "Carlos Sanchez Martinez" 48 46 46 69 63 71 46
+202260793 "Pablo Torres Gonzalez" 97 48 83 77 86
+202221894 "Carlos Torres Castillo" 67 79 50 68 65
+202205397 "Elena Torres Flores" 86 86 78 63 61 45 49 58 60
+202280203 "Carlos Castillo Martinez" 75 67 61 61 70 66 75
+202247356 "Isabel Romero Mendoza" 40 77 53 69 48
+202204784 "Diego Flores Romero" 75 57 55 76 65 38 47 70 65 48
+202273284 "Carlos Mendoza Flores" 94 68 80 57 89 95 48 52 60 75
+202295524 "Fernanda Flores Torres" 78 74 72 76 68 66 87 73
+202250252 "Lucia Romero Alvarez" 70 72 71 70 73 70
+202234108 "Alejandro Gonzalez Ramirez" 81 70 63 50 63 42 73 57
+202202205 "Lucia Torres Castillo" 73 74 61 57 76 79 78
+202224736 "Isabel Mendoza Castillo" 39 49 65 49 66 66 34 55 77 60
+202251770 "Gabriel Martinez Romero" 76 71 75 65 71
+202281900 "Elena Rivera Alvarez" 78 74 80 70 72 73 72 81 71
+202238727 "Diego Sanchez Lopez" 68 63 61 60 61 54 65
+202235246 "Raul Martinez Martinez" 61 80 75 89 84 95 97 87 68
+202260594 "Raul Rivera Romero" 64 61 60 64 60 58 56
+202293823 "Lucia Perez Gonzalez" 72 66 55 55 55 60 59 65 64
+202242626 "Alejandro Ramirez Alvarez" 59 77 53 74 48 66 75 79 45
+202288867 "Elena Mendoza Rivera" 60 85 70 56 60 73
+202249847 "Diego Flores Garcia" 63 88 82 87 74 66 87
+202200637 "Valentina Rivera Alvarez" 52 66 70 57 68 61 67 67 67 64
+202247063 "Valentina Rivera Sanchez" 88 75 60 87 83 67 72 81
+202238360 "Alejandro Flores Flores" 87 92 58 65 91 90 61 62 61
+202247660 "Nicolas Mendoza Mendoza" 46 71 51 47 53 82 57
+202272174 "Alejandro Lopez Perez" 66 72 71 65 70 73 67
+202283784 "Valentina Mendoza Ramirez" 78 75 80 86 55 39 90
+202269856 "Pablo Perez Castillo" 63 66 76 60 72
+202281988 "Elena Mendoza Garcia" 75 57 68 76 78 78
+202263877 "Nicolas Castillo Rivera" 73 64 66 45 61 50 72 54 71
+202278977 "Raul Martinez Lopez" 43 62 43 32 74 49
+202254274 "Pablo Garcia Martinez" 41 65 41 64 67
+202231294 "Raul Rivera Perez" 73 71 67 65 68 73 59 57 57 66
+202229480 "Alejandro Alvarez Flores" 82 54 52 61 56 63
+202278908 "Elena Torres Martinez" 78 69 81 95 56 85 53 79 85 93
+202201686 "Gabriel Gonzalez Garcia" 70 86 85 64 85 71 54 76
+202227812 "Lucia Ramirez Garcia" 62 81 80 66 61
+202273337 "Pablo Alvarez Torres" 70 50 69 52 71 80 73 79 62 66
+202260829 "Fernanda Perez Rivera" 67 69 68 70 68 67 71 71 67 72
+202212001 "Fernanda Lopez Rivera" 92 91 70 48 46
+202212611 "Lucia Ramirez Torres" 48 84 38 59 83 63 77 42
+202234473 "Diego Romero Sanchez" 79 83 76 92 75 74 87 62
+202261336 "Nicolas Lopez Torres" 72 35 37 57 55 57 65 61 58 44
+202220054 "Sofia Mendoza Lopez" 58 72 58 73 71 73 59 63 72
+202238037 "Maria Gonzalez Romero" 68 58 59 66 61 66 70 72 59 64
+202242808 "Javier Torres Hernandez" 93 73 71 91 58 54 70
+202264846 "Maria Hernandez Flores" 63 58 44 80 48 52 41 67 53
+202204128 "Elena Ramirez Alvarez" 56 64 59 97 61 45 52 72
+202207452 "Javier Romero Rivera" 60 68 61 56 72 48 57 64
+202211795 "Javier Ramirez Hernandez" 92 91 79 79 81 78 73
+202255443 "Javier Lopez Ramirez" 63 39 46 51 39 63 53 50
+202221334 "Elena Lopez Castillo" 43 85 76 76 59
+202202754 "Alejandro Torres Alvarez" 46 38 55 71 77 74 75
+202293418 "Gabriel Torres Hernandez" 82 77 85 68 82 73
+202265754 "Diego Mendoza Hernandez" 93 81 91 70 70
+202228346 "Alejandro Mendoza Flores" 59 90 71 63 66 83 80 45
+202266415 "Javier Torres Sanchez" 63 60 70 70 54 55 60 70 54
+202265406 "Alejandro Perez Torres" 66 67 68 72 85 88 75 77
+202204068 "Fernanda Gonzalez Hernandez" 69 78 79 72 72 67 79 70
+202245204 "Nicolas Romero Flores" 58 54 88 86 87 82
+202278088 "Carlos Gonzalez Mendoza" 61 68 60 59 60 64 65 57 60
+202242365 "Valentina Garcia Martinez" 69 63 67 70 65 67
+202275566 "Nicolas Rivera Romero" 70 55 33 60 64 33 70 61 67 58
+202282962 "Diego Romero Torres" 67 79 73 70 76 83 76 84 71
+202219596 "Fernanda Sanchez Rivera" 53 55 59 39 80
+202273774 "Carlos Mendoza Lopez" 67 85 60 85 82 46 92 89 89
+202234063 "Fernanda Sanchez Sanchez" 71 71 87 76 72 79 72
+202282616 "Diego Lopez Romero" 62 85 54 94 63 77 86
+202243943 "Nicolas Alvarez Gonzalez" 77 75 75 69 63 65 77 63 73 70
+202271855 "Diego Hernandez Martinez" 81 74 73 71 67
+202287531 "Pablo Mendoza Lopez" 89 90 77 84 76 71 80 80 82
+202291478 "Sofia Flores Rivera" 63 47 38 44 68 54 63
+202278265 "Elena Mendoza Torres" 63 72 60 51 78 56 52 61 67
+202224278 "Maria Castillo Flores" 51 76 73 78 53 54 44 71 73 58
+202200031 "Pablo Sanchez Castillo" 72 70 63 82 87 77 87 50
+202250291 "Diego Martinez Romero" 77 76 77 97 97 93 93
+202227163 "Maria Romero Romero" 71 52 78 61 81 56 55 59
+202248610 "Isabel Garcia Hernandez" 53 71 65 56 70 51 84 83
+202288373 "Maria Martinez Alvarez" 70 79 70 79 63 64 55
+202245192 "Diego Perez Martinez" 70 62 80 75 67
+202251496 "Isabel Lopez Lopez" 74 81 72 85 61 83 55 71
+202284793 "Gabriel Gonzalez Ramirez" 85 87 66 85 92
+202263171 "Fernanda Gonzalez Flores" 58 70 62 65 70 65
+202251397 "Fernanda Torres Gonzalez" 67 52 41 35 68 48 44 61
+202238220 "Maria Rivera Torres" 74 72 75 70 70 74 74 74 73
+202266807 "Elena Martinez Perez" 67 83 68 71 70
+202263004 "Diego Ramirez Lopez" 70 63 58 52 61 54 63
+202273336 "Nicolas Castillo Hernandez" 66 72 68 58 62 59
+202227420 "Fernanda Perez Sanchez" 59 35 68 47 69 76 53 68
+202224845 "Pablo Romero Sanchez" 42 44 77 50 43
+202239087 "Javier Ramirez Gonzalez" 68 70 63 78 88 44 90 65 52
+202295538 "Javier Castillo Garcia" 89 58 73 99 61 86 95
+202214233 "Maria Mendoza Flores" 63 80 78 77 53 40 88 57 62 83
+202232875 "Pablo Gonzalez Torres" 69 80 71 50 59 71 37 37
+202233957 "Sofia Mendoza Flores" 57 62 52 58 64 56
+202298324 "Valentina Garcia Castillo" 60 60 40 31 32 47 82 85 55 32
+202215392 "Sofia Perez Garcia" 76 46 58 71 70
+202273021 "Lucia Hernandez Garcia" 50 51 68 61 59 69 57
+202210201 "Maria Garcia Gonzalez" 82 76 83 71 69 67 68 67 77
+202210809 "Valentina Perez Romero" 75 69 61 61 56 73 77 66 71 59
+202270000 "Alejandro Castillo Gonzalez" 75 62 79 81 89 72 88 93 67 78
+202230163 "Valentina Alvarez Sanchez" 86 84 80 84 71 78 71 84 70
+202258387 "Javier Castillo Flores" 68 63 70 68 62 59 68
+202207607 "Isabel Torres Gonzalez" 80 57 78 52 61 79 52 71 67 67
+202250950 "Raul Lopez Alvarez" 37 73 82 40 96 66
+202228005 "Maria Garcia Rivera" 41 76 98 87 77 92 76
+202252239 "Sofia Castillo Martinez" 79 82 79 78 76 76
+202216456 "Gabriel Hernandez Sanchez" 64 59 72 67 70 67
+202280221 "Carlos Perez Alvarez" 64 59 52 76 39 71 58 58 58
+202286073 "Isabel Castillo Gonzalez" 72 68 63 69 74 71
+202203860 "Alejandro Rivera Rivera" 52 77 58 63 55 76 76 62 63
+202219443 "Javier Flores Rivera" 71 96 80 72 75 95
+202265177 "Elena Lopez Alvarez" 75 54 67 47 60 57 45
+202211237 "Valentina Torres Perez" 78 73 68 78 79 79 71
+202207910 "Carlos Romero Mendoza" 80 64 73 71 66 85 69 77 67 67
+202212654 "Raul Martinez Alvarez" 79 83 80 84 85 94 65 67
+202248859 "Valentina Perez Castillo" 59 65 54 45 71 59 70 40 53
+202225203 "Pablo Flores Hernandez" 69 84 79 74 96 90 90
+202209952 "Raul Perez Gonzalez" 57 68 51 59 48
+202267220 "Isabel Romero Hernandez" 60 59 71 62 60
+202217552 "Diego Ramirez Mendoza" 72 58 65 56 51 62 65 54
+202247513 "Pablo Martinez Gonzalez" 65 52 48 55 49
+202225956 "Gabriel Gonzalez Lopez" 87 76 58 82 84 69 87
+202234324 "Pablo Torres Rivera" 67 91 83 98 83 82
+202211888 "Isabel Romero Castillo" 59 71 49 65 56
+202229670 "Lucia Rivera Hernandez" 71 74 67 75 68
+202240016 "Gabriel Perez Flores" 47 50 68 77 62 66 64 94 72
+202243670 "Isabel Hernandez Garcia" 79 51 80 59 75 84 72
+202283097 "Maria Mendoza Ramirez" 66 67 73 72 75
+202270307 "Alejandro Lopez Castillo" 69 56 94 36 96 82 57
+202296506 "Maria Mendoza Lopez" 79 75 87 88 82 83 83 70 86
+202213332 "Carlos Hernandez Sanchez" 65 84 63 57 76 67 63 76 59
+202283120 "Raul Castillo Lopez" 69 76 60 66 82 68 78 71 78 82
+202253313 "Raul Castillo Castillo" 97 98 61 78 76 85 75
+202298367 "Isabel Gonzalez Sanchez" 67 79 77 93 90
+202262713 "Elena Romero Torres" 46 81 52 62 64 98 66 58 96
+202229854 "Sofia Lopez Garcia" 73 77 60 40 47 39
+202295998 "Sofia Ramirez Romero" 68 66 73 65 64 67
+202242442 "Raul Hernandez Torres" 65 59 77 61 68 65 63 58 66 72
+202283870 "Gabriel Perez Sanchez" 77 83 79 81 77 73
+202221682 "Pablo Flores Martinez" 66 73 73 45 72 71 80
+202212748 "Maria Hernandez Romero" 32 68 85 56 43 40 87 39
+202253458 "Sofia Mendoza Alvarez" 72 68 66 46 85
+202228415 "Pablo Lopez Romero" 67 54 55 73 61 74 58 62 78
+202280345 "Alejandro Torres Lopez" 76 69 74 77 77
+202223257 "Pablo Castillo Torres" 59 73 63 64 88 90 86 92 77 63
+202212881 "Gabriel Martinez Flores" 64 39 48 57 53 35 63 45 53 44
+202275334 "Alejandro Flores Ramirez" 58 76 55 81 81 58 63 85 59
+202281855 "Fernanda Castillo Castillo" 71 62 75 64 68 70 71 76 67
+202297197 "Pablo Martinez Perez" 54 63 50 45 49 44
+202298321 "Fernanda Rivera Mendoza" 62 56 81 69 66
+202212201 "Alejandro Torres Castillo" 60 59 71 63 59 31 52 44 55
+202263661 "Sofia Ramirez Sanchez" 55 75 45 56 67 77 40 73
+202298127 "Lucia Sanchez Flores" 52 60 67 61 64 76 81 52 69
+202238029 "Alejandro Garcia Garcia" 63 72 58 46 67 51 47 54 39 51
+202241004 "Raul Perez Alvarez" 58 59 91 94 61 67 63 74
+202294283 "Gabriel Flores Castillo" 71 67 56 68 49 69 57
+202234763 "Carlos Castillo Perez" 87 77 78 86 85
+202271220 "Lucia Hernandez Perez" 63 66 72 65 61 40 46 73 74
+202239533 "Alejandro Rivera Mendoza" 66 66 61 52 54 51 58 57 51
+202239342 "Javier Torres Martinez" 35 33 47 71 49 34 94 64 37 88
+202225915 "Pablo Hernandez Romero" 42 61 52 66 41 59 45 58
+202240592 "Elena Romero Perez" 42 52 46 37 52 76 70 59 40 76
+202221117 "Lucia Martinez Ramirez" 73 77 71 74 92 67 62 74
+202216683 "Elena Castillo Garcia" 98 94 52 95 93
+202252981 "Valentina Gonzalez Mendoza" 70 36 68 54 45 51 43 65 51
+202242621 "Lucia Mendoza Romero" 55 74 68 45 72 76 84 61 72
+202273833 "Diego Hernandez Hernandez" 78 63 73 67 82 72 71 66
+202296255 "Isabel Ramirez Castillo" 75 93 88 92 80 88 88
+202281684 "Valentina Martinez Flores" 69 70 70 70 70 69 69 70
+202292646 "Isabel Sanchez Garcia" 74 69 70 69 75 73
+202269806 "Pablo Sanchez Mendoza" 80 77 60 76 52 94
+202243890 "Sofia Romero Alvarez" 56 88 74 97 59 55 35 58
+202299226 "Diego Sanchez Gonzalez" 60 51 51 68 59 84
+202240398 "Elena Perez Flores" 61 50 73 69 65
+202265728 "Sofia Garcia Hernandez" 59 68 61 62 81 81 69 63 68
+202228070 "Elena Sanchez Sanchez" 68 61 67 64 70 63
+202270022 "Sofia Martinez Ramirez" 59 66 73 61 57 69 63 67 66
+202254984 "Isabel Sanchez Martinez" 70 72 68 74 67 74 67 70
+202219178 "Gabriel Castillo Rivera" 50 83 62 66 61 47 78
+202202543 "Javier Flores Perez" 81 65 65 76 73 77 85
+202208140 "Elena Mendoza Mendoza" 69 58 63 65 65 63
+202222847 "Fernanda Torres Hernandez" 56 36 62 65 43 44 70 55 61
+202258421 "Javier Romero Martinez" 68 69 88 90 71 76 89 73 89
+202277194 "Valentina Lopez Torres" 40 49 55 42 74 41 47 53 60
+202202651 "Maria Sanchez Martinez" 53 67 68 76 56 63 77 74 75
+202279768 "Javier Sanchez Martinez" 70 89 76 50 80 68
+202209181 "Carlos Martinez Mendoza" 85 90 88 83 72 65
+202244411 "Javier Garcia Lopez" 61 36 58 86 72
+202269222 "Pablo Garcia Flores" 42 65 42 56 40 58 34 52 49 45
+202281350 "Sofia Romero Castillo" 71 89 78 71 72 75 74
+202267164 "Maria Rivera Sanchez" 91 73 90 81 68 96
+202274170 "Raul Flores Mendoza" 74 69 92 83 76 80 80
+202252467 "Alejandro Torres Sanchez" 75 70 77 69 78
+202280763 "Valentina Rivera Mendoza" 83 59 74 53 70 77 87
+202264816 "Valentina Alvarez Mendoza" 83 80 83 89 71 90 96 69 68
+202220568 "Raul Perez Rivera" 74 62 68 81 80 61 76
+202258633 "Nicolas Lopez Castillo" 72 79 82 77 74
+202212084 "Carlos Mendoza Romero" 89 68 86 75 88 75
+202260176 "Diego Sanchez Sanchez" 70 65 52 55 59 68 68
+202266930 "Lucia Romero Hernandez" 55 64 56 46 68 70 59 37 60 56
+202213963 "Diego Rivera Alvarez" 72 59 59 75 75 55 67 69
+202275389 "Gabriel Gonzalez Gonzalez" 50 71 68 91 64 81 75 90 65
+202206519 "Carlos Alvarez Ramirez" 66 76 70 84 53 74
+202226033 "Elena Perez Romero" 51 58 93 48 74 88 69 60 95
+202212980 "Alejandro Castillo Castillo" 32 59 63 35 70 33 51 62
+202239982 "Pablo Garcia Rivera" 72 73 71 71 70 75 76 75 71 73
+202238255 "Valentina Gonzalez Sanchez" 39 63 67 68 54 88 62 56 39
+202266110 "Valentina Martinez Alvarez" 53 56 48 50 60 47 73 59
+202260759 "Fernanda Alvarez Ramirez" 55 51 55 66 73 59 68
+202292296 "Maria Mendoza Gonzalez" 61 64 64 61 66 61 65 61 62
+202266519 "Lucia Martinez Flores" 71 84 77 64 72 84 84 79 75
+202210266 "Pablo Sanchez Hernandez" 53 72 39 58 91 51 92 72 84 45
+202233050 "Raul Ramirez Gonzalez" 65 54 58 69 64 55 71 70 62
+202231344 "Pablo Alvarez Hernandez" 54 65 56 69 47
+202266699 "Nicolas Gonzalez Alvarez" 79 66 72 70 59 72
+202273841 "Carlos Perez Romero" 81 38 50 59 83 58 74 50
+202270481 "Fernanda Romero Perez" 79 91 88 89 90 72 73 79
+202245726 "Valentina Alvarez Torres" 74 71 56 61 53 53 60 60 54
+202298842 "Lucia Flores Sanchez" 59 71 61 87 84 48
+202276585 "Alejandro Hernandez Mendoza" 44 40 88 70 64 49
+202204592 "Alejandro Sanchez Mendoza" 77 65 65 80 68 72
+202211908 "Javier Hernandez Rivera" 75 58 57 73 66 68 76 62
+202261705 "Sofia Hernandez Perez" 87 86 83 75 76 71 79 67
+202278772 "Lucia Rivera Gonzalez" 67 55 61 51 61
+202240083 "Alejandro Flores Garcia" 83 68 68 92 95 81 83
+202270896 "Elena Castillo Flores" 47 48 58 74 51 47 61 47
+202271540 "Maria Perez Rivera" 74 94 78 72 84 86 89 80 98 75
+202286702 "Lucia Perez Torres" 71 69 53 55 51 61
+202242469 "Fernanda Gonzalez Mendoza" 89 80 84 87 85 70
+202226089 "Raul Sanchez Torres" 76 51 50 79 76 93 57 65 80 61
+202244657 "Gabriel Sanchez Garcia" 38 52 40 71 65 90 62 88 69 76
+202283733 "Carlos Mendoza Sanchez" 65 42 60 55 52 52 47 90
+202222443 "Gabriel Lopez Castillo" 73 58 72 73 63 64 60 60 72 74
+202206045 "Isabel Sanchez Alvarez" 68 81 74 69 69 90 74 65 76
+202200939 "Raul Sanchez Gonzalez" 61 51 40 66 61 64 59
+202234283 "Nicolas Sanchez Ramirez" 70 70 70 70 70 70 70 70 70 70
+202208971 "Alejandro Romero Lopez" 35 49 64 67 77 47 53 59
+202204619 "Carlos Gonzalez Flores" 66 53 60 73 60
+202200955 "Pablo Mendoza Torres" 58 48 61 58 64 52
+202271274 "Elena Garcia Gonzalez" 49 65 67 77 77 62 50
+202289134 "Diego Castillo Martinez" 35 46 69 43 54 74 80 49 78
+202285668 "Raul Flores Torres" 69 36 45 70 55
+202252717 "Fernanda Rivera Gonzalez" 60 33 37 34 51 54 70 37 72
+202204160 "Maria Hernandez Sanchez" 36 40 42 62 65 72 53 54
+202297433 "Raul Flores Rivera" 71 67 66 69 65 70 71
+202242001 "Fernanda Ramirez Rivera" 97 62 70 68 91 61
+202249720 "Alejandro Flores Romero" 79 73 73 77 70 82
+202282924 "Alejandro Lopez Mendoza" 76 76 76 64 68
+202289071 "Javier Hernandez Alvarez" 69 87 70 72 73 85 73 92 81 88
+202243568 "Alejandro Alvarez Hernandez" 76 83 82 62 77 62
+202277830 "Maria Martinez Castillo" 95 80 72 74 57 80 55 91
+202216892 "Sofia Hernandez Mendoza" 73 65 70 63 70 63
+202299370 "Fernanda Hernandez Hernandez" 76 76 70 64 85 69 81
+202269829 "Valentina Martinez Torres" 53 51 57 62 56 69
+202225129 "Pablo Gonzalez Martinez" 69 65 64 61 80
+202275736 "Carlos Flores Flores" 77 72 50 63 84
+202259843 "Javier Martinez Castillo" 81 69 65 63 74
+202230357 "Lucia Gonzalez Ramirez" 67 61 66 64 71 68 61 71
+202273357 "Diego Flores Torres" 76 71 78 72 80 70 83 83 75
+202208563 "Gabriel Gonzalez Castillo" 82 41 58 64 70 64
+202288665 "Alejandro Garcia Romero" 73 78 78 83 78 82 81 84
+202294502 "Fernanda Martinez Gonzalez" 70 82 76 71 76 73 78 73 73
+202236290 "Raul Garcia Martinez" 74 37 57 74 75 65 78 42 40
+202290942 "Isabel Flores Ramirez" 74 85 86 71 76
+202201251 "Maria Mendoza Castillo" 42 39 45 68 59
+202265919 "Gabriel Gonzalez Flores" 69 66 75 70 80
+202233117 "Diego Hernandez Torres" 78 91 80 94 76 65 77 84 86 64
+202242281 "Gabriel Sanchez Gonzalez" 57 70 61 57 52 71 54 61 68 66
+202236928 "Gabriel Martinez Ramirez" 34 59 63 36 61
+202235521 "Nicolas Torres Ramirez" 51 75 51 46 75 51
+202225320 "Lucia Romero Martinez" 65 70 58 56 47 55 46 49 70 57
+202293462 "Pablo Alvarez Martinez" 68 94 58 55 56 96 63 76 71
+202209444 "Alejandro Hernandez Torres" 46 57 59 58 56 55 59 47
+202290753 "Maria Sanchez Mendoza" 59 68 71 67 58 71
+202221176 "Gabriel Mendoza Torres" 65 75 70 50 59 69 65 52 52 69
+202269939 "Valentina Garcia Romero" 76 69 65 84 70 81
+202296324 "Gabriel Lopez Flores" 67 32 43 67 85
+202246748 "Diego Ramirez Gonzalez" 60 69 64 71 52
+202254471 "Maria Alvarez Mendoza" 56 64 69 58 62
+202253538 "Carlos Torres Gonzalez" 56 93 72 75 84 80
+202248129 "Raul Perez Castillo" 50 55 70 67 52 47
+202240844 "Alejandro Rivera Gonzalez" 80 64 80 52 65 80
+202232609 "Isabel Garcia Martinez" 72 69 64 83 87 64 92 70 66 80
+202288642 "Maria Rivera Rivera" 90 55 56 45 58
+202238897 "Gabriel Torres Alvarez" 89 95 72 91 63
+202204358 "Pablo Mendoza Romero" 83 89 61 50 60 84
+202289179 "Isabel Torres Mendoza" 55 42 48 57 82 62 42 82
+202294130 "Diego Sanchez Flores" 83 74 77 81 71 76 74
+202299914 "Isabel Hernandez Gonzalez" 49 50 63 66 62 47
+202279022 "Valentina Flores Mendoza" 90 57 77 85 50 79 91
+202200258 "Diego Castillo Sanchez" 86 79 76 81 89 86 77 71 66 68
+202299974 "Lucia Rivera Alvarez" 75 67 75 74 69 73 68 72
+202222708 "Valentina Perez Alvarez" 64 53 81 60 55
+202263652 "Isabel Alvarez Lopez" 78 84 81 65 75 66
+202230200 "Alejandro Gonzalez Romero" 89 62 89 87 70 89 83 74 89
+202225787 "Nicolas Romero Castillo" 99 47 48 75 57 99 57
+202251009 "Sofia Martinez Romero" 83 83 68 71 83
+202287240 "Javier Rivera Hernandez" 75 60 44 68 47 46
+202243112 "Sofia Mendoza Sanchez" 78 89 69 62 86 70
+202258064 "Fernanda Lopez Alvarez" 92 91 94 95 93 69 76 93 77
+202284907 "Carlos Alvarez Martinez" 99 63 70 47 42 71 81 82
+202230271 "Carlos Garcia Gonzalez" 76 56 93 58 34 49 39
+202237474 "Diego Garcia Castillo" 91 69 84 64 70 89 81
+202209908 "Pablo Martinez Torres" 67 87 60 52 75 86
+202267974 "Sofia Perez Romero" 76 72 73 89 85 76 86
+202298667 "Valentina Alvarez Alvarez" 47 68 63 68 82 46 74 46 47 43
+202268161 "Valentina Rivera Romero" 83 61 85 72 59 77 45
+202206501 "Javier Mendoza Martinez" 62 57 69 62 56
+202204302 "Maria Gonzalez Mendoza" 67 78 79 55 76 68 72 69 54 68
+202259340 "Maria Martinez Romero" 62 39 83 67 72 50 84 70
+202207348 "Gabriel Martinez Martinez" 69 73 71 70 71
+202206524 "Elena Garcia Hernandez" 44 62 43 67 51 55 55 50 56
+202264260 "Gabriel Alvarez Sanchez" 74 74 72 71 67 67 67 70 68 76
+202285377 "Javier Mendoza Garcia" 45 38 54 64 46 79 40 60
+202240399 "Lucia Alvarez Rivera" 49 31 47 73 33 43 31 56 33 50
+202264122 "Nicolas Hernandez Martinez" 45 41 67 68 48 65 53 57 52 36
+202217415 "Carlos Hernandez Romero" 48 74 57 91 67 83 52 77
+202232808 "Fernanda Castillo Perez" 32 41 54 75 45 67 74
+202255944 "Pablo Romero Martinez" 76 65 60 60 70 75 52 51 72
+202240625 "Elena Torres Gonzalez" 38 67 56 53 69 47 50 58
+202267963 "Javier Alvarez Garcia" 73 60 54 70 52 66 49 86 84
+202259084 "Elena Sanchez Hernandez" 95 70 87 82 77 87 94 78 80 91
+202277949 "Lucia Ramirez Gonzalez" 85 79 76 91 64 80 84 68 84
+202202297 "Diego Torres Romero" 39 77 38 86 51 45 38 65 86 85
+202272427 "Elena Flores Martinez" 55 77 73 68 52 65 43 85
+202238907 "Diego Gonzalez Perez" 56 54 63 71 54 66 46
+202223325 "Isabel Alvarez Martinez" 64 85 61 79 79 71 87 79 71
+202269949 "Nicolas Ramirez Lopez" 65 68 65 76 64 68 65 75 70
+202208365 "Maria Sanchez Ramirez" 64 52 41 67 63 59 42 37 39
+202298999 "Javier Torres Castillo" 35 63 76 64 54
+202233828 "Lucia Sanchez Romero" 79 90 60 74 87 82 86 88
+202203886 "Elena Rivera Rivera" 72 69 67 57 58 50 72
+202285884 "Pablo Flores Garcia" 69 69 70 69 68 69 69 68
+202273440 "Maria Torres Flores" 34 89 60 87 40 64 64
+202275021 "Javier Alvarez Torres" 81 92 73 60 47 64 88 84 71 92
+202243492 "Fernanda Mendoza Torres" 70 88 74 69 82 73 68 82
+202262562 "Sofia Martinez Torres" 62 85 71 43 72 42 75
+202239182 "Lucia Perez Garcia" 67 57 72 70 42 37
+202214625 "Raul Romero Hernandez" 67 62 67 68 49 48 61 74 44 58
+202208935 "Javier Perez Martinez" 79 75 78 73 70 79 81 78 68
+202236854 "Elena Romero Flores" 66 65 73 69 71 54 67 74
+202299201 "Raul Alvarez Mendoza" 56 73 86 74 70 61 69 65 80
+202260360 "Nicolas Perez Lopez" 88 71 95 94 80 78 95 78 90
+202227960 "Valentina Rivera Ramirez" 89 85 74 87 79 64 70
+202205217 "Pablo Hernandez Torres" 97 76 67 79 97 70 91 79 65
+202291289 "Valentina Sanchez Ramirez" 42 77 54 68 84 54 65 71 39
+202220132 "Isabel Castillo Hernandez" 81 77 87 81 88 78 79
+202220270 "Javier Perez Romero" 81 60 62 58 77 68 79 83 91 81
+202235360 "Valentina Ramirez Ramirez" 57 42 83 76 37 32 42 38 60
+202211678 "Diego Alvarez Gonzalez" 39 62 42 44 44 69 54 68 55 40
+202203668 "Elena Hernandez Castillo" 46 56 55 71 42 52 75
+202297148 "Nicolas Sanchez Castillo" 70 75 73 68 75 73
+202267396 "Gabriel Rivera Lopez" 76 69 72 74 74 71 66 72
+202258955 "Raul Rivera Garcia" 71 65 77 69 71 82 82 81 72
+202255826 "Fernanda Martinez Castillo" 68 72 81 75 70 73 81 75 81
+202292439 "Elena Castillo Torres" 76 66 68 71 73 70 58 54 70 63
+202204063 "Sofia Rivera Castillo" 71 81 71 70 82 64 63 51
+202270353 "Pablo Castillo Sanchez" 56 83 86 72 49 73 62 57
+202268486 "Alejandro Gonzalez Castillo" 77 61 51 59 62
+202246065 "Raul Lopez Castillo" 86 90 60 42 72 84 84 37 37 46
+202270623 "Isabel Flores Alvarez" 67 67 56 55 48 64 57 56
+202214705 "Lucia Romero Castillo" 62 79 71 71 67
+202295211 "Alejandro Martinez Garcia" 64 62 93 62 94
+202271058 "Gabriel Alvarez Mendoza" 64 70 64 62 86 71 63 91 72
+202251422 "Sofia Flores Lopez" 69 83 64 90 87 58 63 37
+202272289 "Diego Romero Flores" 70 59 35 55 52 40
+202292666 "Isabel Martinez Gonzalez" 71 46 58 64 72 56 71 58
+202262830 "Elena Alvarez Castillo" 78 56 66 71 88 76
+202293057 "Gabriel Rivera Sanchez" 71 70 69 65 71 68 64 70
+202247047 "Pablo Flores Ramirez" 73 58 62 63 86 40 52 40 86 61
+202203233 "Diego Sanchez Castillo" 68 69 68 69 70 70
+202229640 "Elena Gonzalez Castillo" 65 58 46 81 65 70 46 78 64 65
+202235493 "Alejandro Torres Torres" 64 68 49 72 87 57
+202216593 "Maria Flores Alvarez" 79 66 82 77 79 77 82 80 68
+202250676 "Maria Garcia Ramirez" 57 60 49 70 76 49 70
+202276134 "Pablo Gonzalez Flores" 81 68 92 62 65 91 89 64 61 75
+202294812 "Raul Mendoza Garcia" 85 100 66 49 84 50 74
+202291861 "Sofia Hernandez Sanchez" 49 60 46 72 51 55 64
+202255961 "Elena Ramirez Rivera" 69 81 50 85 78
+202247749 "Raul Rivera Gonzalez" 70 70 69 35 70 54 72 45 37
+202222887 "Pablo Torres Torres" 67 59 71 77 50 80 73 51
+202217739 "Lucia Lopez Garcia" 71 73 80 76 72 80 70 85 76 81
+202267871 "Diego Hernandez Flores" 76 71 74 74 76 67 62
+202290949 "Sofia Romero Ramirez" 78 48 53 62 81 43 56 48 71 80
+202279083 "Sofia Sanchez Alvarez" 72 70 82 78 74 79
+202246899 "Diego Rivera Gonzalez" 63 76 68 71 64 70 73
+202293533 "Pablo Romero Rivera" 60 57 64 66 65 59 63 70
+202259790 "Alejandro Perez Rivera" 81 73 75 66 64 74 76 78
+202289971 "Isabel Gonzalez Hernandez" 65 75 48 49 44
+202238214 "Elena Gonzalez Lopez" 60 66 82 66 31 64
+202266525 "Valentina Perez Torres" 95 89 64 67 87 90 56 58 60
+202223616 "Carlos Rivera Rivera" 76 63 64 94 74 89 88
+202250197 "Diego Alvarez Romero" 52 85 92 90 87 57 45
+202230270 "Isabel Martinez Lopez" 68 74 65 65 55 56 70 72 44 68
+202222101 "Fernanda Mendoza Ramirez" 43 68 58 81 76 72
+202208892 "Elena Castillo Alvarez" 83 84 74 76 72 87 84 87 87 90
+202249167 "Carlos Rivera Garcia" 60 64 60 54 63 67
+202248623 "Elena Flores Perez" 36 51 65 63 64 54 68
+202282838 "Elena Rivera Martinez" 90 73 87 86 69 69
+202267942 "Maria Hernandez Lopez" 64 69 66 64 66 70 71
+202264397 "Javier Perez Alvarez" 51 51 51 67 74 69 54
+202225228 "Gabriel Torres Gonzalez" 67 64 79 63 88 73
+202202926 "Gabriel Lopez Martinez" 71 80 79 59 59 69 81 67 72
+202298075 "Sofia Rivera Hernandez" 49 53 51 54 73 64 67

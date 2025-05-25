@@ -1,0 +1,10 @@
+202246328 "Valentina Martinez Castillo" 88 98 99 80 90 74 75 80
+202249404 "Lucia Mendoza Ramirez" 62 52 47 58 69 55 49 55 62
+202296355 "Maria Perez Lopez" 79 43 55 44 78 61 55 44 60 57
+202237411 "Lucia Castillo Alvarez" 72 75 69 75 75
+202283457 "Sofia Romero Torres" 64 82 65 72 75 63 56
+202291079 "Gabriel Flores Martinez" 36 67 63 41 37
+202201401 "Gabriel Mendoza Rivera" 59 56 65 51 61 61 72 52 63 70
+202237047 "Isabel Gonzalez Perez" 58 87 89 94 55 44 89
+202268323 "Alejandro Garcia Martinez" 70 59 56 55 70 69 76 60 66
+202257800 "Pablo Garcia Hernandez" 70 92 88 80 60 66
