@@ -158,52 +158,88 @@ int contar_alumnos_arbol(struct_arbol_alumnos *raiz) {
 // Promedio y desviación estándar de cada evaluación en la lista
 void promedio_desviacion_lista(struct_lista_alumnos *cabeza) {
     if (!cabeza) return;
-    int n_eval = cabeza->alumno->cantidad_notas;
-    double *suma = calloc(n_eval, sizeof(double));
-    double *suma2 = calloc(n_eval, sizeof(double));
-    int n = 0;
+
+    // Primero, determinar la máxima cantidad de evaluaciones
+    int max_eval = 0;
     struct_lista_alumnos *act;
     for (act = cabeza; act; act = act->siguiente) {
+        if (act->alumno->cantidad_notas > max_eval)
+            max_eval = act->alumno->cantidad_notas;
+    }
+    if (max_eval == 0) return;
+
+    double *suma = calloc(max_eval, sizeof(double));
+    double *suma2 = calloc(max_eval, sizeof(double));
+    int *cont = calloc(max_eval, sizeof(int));
+
+    for (act = cabeza; act; act = act->siguiente) {
         int i;
-        for (i = 0; i < n_eval; i++) {
+        for (i = 0; i < act->alumno->cantidad_notas; i++) {
             suma[i] += act->alumno->notas[i];
             suma2[i] += act->alumno->notas[i] * act->alumno->notas[i];
+            cont[i]++;
         }
-        n++;
     }
     int i;
-    for (i = 0; i < n_eval; i++) {
-        double prom = suma[i] / n;
-        double desv = sqrt(suma2[i]/n - prom*prom);
-        printf("Evaluación %d: Promedio = %.2f, Desviación = %.2f\n", i+1, prom, desv);
+    for (i = 0; i < max_eval; i++) {
+        if (cont[i] > 0) {
+            double prom = suma[i] / cont[i];
+            double desv = sqrt(suma2[i]/cont[i] - prom*prom);
+            printf("Evaluación %d: Promedio = %.2f, Desviación = %.2f\n", i+1, prom, desv);
+        } else {
+            printf("Evaluación %d: Sin datos suficientes\n", i+1);
+        }
     }
-    free(suma); free(suma2);
+    free(suma); free(suma2); free(cont);
 }
 
 // Promedio y desviación estándar de cada evaluación en el árbol
-static void acum_eval_arbol(struct_arbol_alumnos *raiz, int n_eval, double *suma, double *suma2, int *n) {
+static void acum_eval_arbol(struct_arbol_alumnos *raiz, int max_eval, double *suma, double *suma2, int *cont) {
     if (!raiz) return;
-    acum_eval_arbol(raiz->izquierda, n_eval, suma, suma2, n);
+    acum_eval_arbol(raiz->izquierda, max_eval, suma, suma2, cont);
     int i;
-    for (i = 0; i < n_eval; i++) {
+    for (i = 0; i < raiz->alumno->cantidad_notas; i++) {
         suma[i] += raiz->alumno->notas[i];
         suma2[i] += raiz->alumno->notas[i] * raiz->alumno->notas[i];
+        cont[i]++;
     }
-    (*n)++;
-    acum_eval_arbol(raiz->derecha, n_eval, suma, suma2, n);
+    acum_eval_arbol(raiz->derecha, max_eval, suma, suma2, cont);
 }
-void promedio_desviacion_arbol(struct_arbol_alumnos *raiz, int n_eval) {
-    double *suma = calloc(n_eval, sizeof(double));
-    double *suma2 = calloc(n_eval, sizeof(double));
-    int n = 0;
-    acum_eval_arbol(raiz, n_eval, suma, suma2, &n);
-    int i;
-    for (i = 0; i < n_eval; i++) {
-        double prom = suma[i] / n;
-        double desv = sqrt(suma2[i]/n - prom*prom);
-        printf("Evaluación %d: Promedio = %.2f, Desviación = %.2f\n", i+1, prom, desv);
+void promedio_desviacion_arbol(struct_arbol_alumnos *raiz) {
+    // Determinar la máxima cantidad de evaluaciones
+    int max_eval = 0;
+    // Recorrido para encontrar el máximo
+    struct_arbol_alumnos *stack[1000];
+    int top = 0;
+    struct_arbol_alumnos *curr = raiz;
+    while (curr || top > 0) {
+        while (curr) {
+            stack[top++] = curr;
+            curr = curr->izquierda;
+        }
+        curr = stack[--top];
+        if (curr->alumno->cantidad_notas > max_eval)
+            max_eval = curr->alumno->cantidad_notas;
+        curr = curr->derecha;
     }
-    free(suma); free(suma2);
+    if (max_eval == 0) return;
+
+    double *suma = calloc(max_eval, sizeof(double));
+    double *suma2 = calloc(max_eval, sizeof(double));
+    int *cont = calloc(max_eval, sizeof(int));
+    acum_eval_arbol(raiz, max_eval, suma, suma2, cont);
+
+    int i;
+    for (i = 0; i < max_eval; i++) {
+        if (cont[i] > 0) {
+            double prom = suma[i] / cont[i];
+            double desv = sqrt(suma2[i]/cont[i] - prom*prom);
+            printf("Evaluación %d: Promedio = %.2f, Desviación = %.2f\n", i+1, prom, desv);
+        } else {
+            printf("Evaluación %d: Sin datos suficientes\n", i+1);
+        }
+    }
+    free(suma); free(suma2); free(cont);
 }
 
 // Promedio y desviación estándar del promedio final en la lista
@@ -216,6 +252,7 @@ void promedio_final_lista(struct_lista_alumnos *cabeza) {
         suma2 += act->alumno->promedio * act->alumno->promedio;
         n++;
     }
+    if (n == 0) return;
     double prom = suma / n;
     double desv = sqrt(suma2/n - prom*prom);
     printf("Promedio final: %.2f, Desviación: %.2f\n", prom, desv);
@@ -234,6 +271,7 @@ void promedio_final_arbol(struct_arbol_alumnos *raiz) {
     double suma = 0, suma2 = 0;
     int n = 0;
     acum_final_arbol(raiz, &suma, &suma2, &n);
+    if (n == 0) return;
     double prom = suma / n;
     double desv = sqrt(suma2/n - prom*prom);
     printf("Promedio final: %.2f, Desviación: %.2f\n", prom, desv);

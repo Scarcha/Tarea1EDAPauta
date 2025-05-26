@@ -145,7 +145,7 @@ void promedio_desviacion_lista(struct_lista_alumnos *cabeza);
  * @param raiz Puntero a la raíz del árbol de alumnos (struct_arbol_alumnos).
  * @param n_eval Número de evaluaciones a considerar para el cálculo.
  */
-void promedio_desviacion_arbol(struct_arbol_alumnos *raiz, int n_eval);
+void promedio_desviacion_arbol(struct_arbol_alumnos *raiz);
 /**
  * @brief Calcula y muestra el promedio final de los alumnos en la lista.
  *

@@ -2,7 +2,7 @@
 
 
 int main(int argc, char *argv[]) {
-    FILE *file = fopen("texto2.txt", "r");
+    FILE *file = fopen("texto1.txt", "r");
     if (file == NULL) {
         perror("Error al abrir el archivo");
         return 0;
@@ -101,8 +101,8 @@ int main(int argc, char *argv[]) {
     printf("\nÁrbol binario de alumnos:\n");
     imprimir_arbol(raiz);
     */
-    guardar_lista_txt(cabeza, "lista.txt");
-    guardar_arbol_archivo(raiz, "arbol.txt");
+    guardar_lista_txt(cabeza, "promedio_lista.txt");
+    guardar_arbol_archivo(raiz, "promedio_arbol.txt");
 
 
     if (argc == 2) {
@@ -112,8 +112,7 @@ int main(int argc, char *argv[]) {
             promedio_final_lista(cabeza);
         } else if (strcmp(argv[1], "arbol") == 0) {
             printf("Cantidad de alumnos (arbol): %d\n", contar_alumnos_arbol(raiz));
-            int n_eval = cabeza ? cabeza->alumno->cantidad_notas : 0;
-            promedio_desviacion_arbol(raiz, n_eval);
+            promedio_desviacion_arbol(raiz);
             promedio_final_arbol(raiz);
         }
         else{printf("Comando no reconocido. Usa 'lista' o 'arbol'.\n");}
