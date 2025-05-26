@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
     struct_lista_alumnos *cabeza = NULL;
     struct_lista_alumnos *actual = NULL;
     struct_lista_alumnos *nuevo = NULL;
-    struct_arbol_alumnos *raiz = NULL; // Agrega esto antes del while
+    struct_arbol_alumnos *raiz = NULL;
     char line[512];
     while (fgets(line, sizeof(line), file)) {
         nuevo = (struct_lista_alumnos *)malloc(sizeof(struct_lista_alumnos));
@@ -62,7 +62,6 @@ int main(int argc, char *argv[]) {
             notas = realloc(notas, capacidad * sizeof(int));
             }
             notas[n_notas++] = nota;
-            // Avanzar ptr al siguiente número
             while (*ptr && *ptr != ' ') ptr++;
             while (*ptr == ' ') ptr++;
         }
@@ -77,7 +76,6 @@ int main(int argc, char *argv[]) {
 
         // Calcular promedio
         int suma = 0;
-        int i;
         for (i = 0; i < n_notas; i++) {
             suma += nuevo->alumno->notas[i];
         }

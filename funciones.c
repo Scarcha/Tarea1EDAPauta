@@ -164,7 +164,8 @@ void promedio_desviacion_lista(struct_lista_alumnos *cabeza) {
     int n = 0;
     struct_lista_alumnos *act;
     for (act = cabeza; act; act = act->siguiente) {
-        for (int i = 0; i < n_eval; i++) {
+        int i;
+        for (i = 0; i < n_eval; i++) {
             suma[i] += act->alumno->notas[i];
             suma2[i] += act->alumno->notas[i] * act->alumno->notas[i];
         }
