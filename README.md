@@ -14,4 +14,5 @@ Para comando usar "buscar_lista" o "buscar_arbol" y completar el apartado rol
 
 # Salidas
 promedio_lista.txt: Lista con promedios de alumnos basado en lista enlazada
+
 promedio_arbol.txt: Lista con promedios de alumnos basado en arbol
