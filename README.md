@@ -3,6 +3,8 @@
 # Para compilar
 gcc -o main main.c funciones.c -lm
 
+make
+
 # Para ejecutar
 ./main comando rol
 
